@@ -1,0 +1,27 @@
+{
+  "name": "resumos-meec",
+  "version": "1.0.0",
+  "description": "Resumos para o curso de MEEC do IST",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparklingRita/resumos-meec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SparklingRita/resumos-meec/issues"
+  },
+  "homepage": "https://github.com/SparklingRita/resumos-meec#readme",
+  "devDependencies": {
+    "@maginapp/vuepress-plugin-katex": "^1.0.11",
+    "prettier": "^1.19.1",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-seo": "^0.1.4",
+    "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
+  }
+}
