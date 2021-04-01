@@ -72,6 +72,7 @@ git checkout -b nome-do-branch
 Para contribuires com os teus próprios resumos, precisas de editar os ficheiros `.md` (ficheiros markdown) que estão na pasta `src`.  
 Para alterar os links na sidebar, é necessário alterar o ficheiro `src/.vuepress/config.js` para o respetivo tema/título da matéria.  
 Se nunca trabalhaste com esta linguagem, tens [aqui](https://www.markdownguide.org/basic-syntax) um guia para te ajudar, é bastante simples.
+Para equações matemáticas, usa-se KateX (semelhante ao LateX), se precisarem de ajuda, está [aqui](https://katex.org/docs/supported.html) um guia.
 
 Para iniciar o servidor local, para ver como ficou, correr o comando:
 
@@ -107,3 +108,7 @@ git push
 ```
 
 A partir daqui, é criar um novo branch e fazer as alterações, tal como da última vez.
+
+### Abrir um Pull-Request no GitHub
+
+Para podermos adicionar os vossos resumos ao site, é preciso criarem um pull request no GitHub, para isso, basta irem a [este link](https://github.com/SparklingRita/resumos-meec/compare) e selecionar o vosso branch.
