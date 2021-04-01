@@ -1,3 +1,8 @@
+---
+title: Resumos MEEC
+description: Site comunitário para resumos do curso de MEEC
+---
+
 # ![IST Logo](./IST_Logo.png) Resumos MEEC
 
 ## Introdução
