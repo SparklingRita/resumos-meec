@@ -74,7 +74,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['0001-intro', '0002-OeRH', '0003-microeconomia'],
         },
         {
           title: '✏️ Exercícios',
@@ -88,7 +88,9 @@ module.exports = {
           title: '📝 Conteúdo',
           collapsable: false,
           children: [
-            
+            '0001-cinematica',
+            '0002-leisnewton',
+            '0003-simetrias-leis-conservacao',
           ],
         },
         {
