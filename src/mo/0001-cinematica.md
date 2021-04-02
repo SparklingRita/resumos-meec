@@ -112,8 +112,7 @@ $\displaystyle v=\omega R$
 $\displaystyle a_N=-\frac{v^2}{R}=-\omega ^2 R$
 
 ::: tip Movimentos Curvilíneos
-Qualquer movimento curvilíneo pode ser descrito em cada instante como um movimento circular, em que tem uma velocidade tangente à trajetória, uma componente da aceleração perpendicular e outra paralela à trajetória só que, como a curvatura muda, estes vetores mudam de instante para instante.
 
-$\sum pr+asd+ghf+sdd$
+Qualquer movimento curvilíneo pode ser descrito em cada instante como um movimento circular, em que tem uma velocidade tangente à trajetória, uma componente da aceleração perpendicular e outra paralela à trajetória só que, como a curvatura muda, estes vetores mudam de instante para instante.
 
 :::
