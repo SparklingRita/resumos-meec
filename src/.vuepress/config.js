@@ -74,7 +74,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['Microeconomia'],
         },
         {
           title: '✏️ Exercícios',
