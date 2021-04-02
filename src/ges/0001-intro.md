@@ -9,10 +9,10 @@ Gestão é o processo que visa atingir as metas e os objetivos de uma organizaç
 - **Eficácia**: Grau com que uma organização atinge os seus objetivos.
 - **Eficiência**: Quantidade/ valor dos recursos utilizados para atingir os objetivos.
   ::: tip Por exemplo:
-- Um carro pode ser uma forma de transporte muito eficaz, capaz de mover as pessoas para lugares específicos. Porém, um carro pode não ser o modo mais eficiente de transporte devido ao grande gasto de combustível.
-- A eficiência no local de trabalho pode ser definida como o tempo necessário para fazer algo. Funcionários gerentes eficientes completam as tarefas no mínimo tempo possível.
-- Um empregado eficaz alcança as suas metas, enquanto um empregado eficiente produz de uma forma rápida e inteligente.
-  :::
+  1. Um carro pode ser uma forma de transporte muito eficaz, capaz de mover as pessoas para lugares específicos. Porém, um carro pode não ser o modo mais eficiente de transporte devido ao grande gasto de combustível.
+  2. A eficiência no local de trabalho pode ser definida como o tempo necessário para fazer algo. Funcionários gerentes eficientes completam as tarefas no mínimo tempo possível.
+  3. Um empregado eficaz alcança as suas metas, enquanto um empregado eficiente produz de uma forma rápida e inteligente.
+     :::
 
 ## Funções da Gestão
 
