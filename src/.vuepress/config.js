@@ -88,7 +88,9 @@ module.exports = {
           title: '📝 Conteúdo',
           collapsable: false,
           children: [
-            
+            '0001-cinematica',
+            '0002-leisnewton',
+            '0003-simetrias-leis-conservacao',
           ],
         },
         {

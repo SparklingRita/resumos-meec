@@ -15,15 +15,24 @@ no site de LEIC-A.
 
 ## Contribuidores 💛
 
+- [João Rodrigues](https://github.com/SparklingRita/resumos-meec/commits?author=Joao-Ex-Machina)
+- [Rafaela Oliveira](https://github.com/SparklingRita/resumos-meec/commits?author=rafaelacorreiaoliveira)
+- [Rita Mendes](https://github.com/SparklingRita/resumos-meec/commits?author=SparklingRita)
+
 ## Como Contribuir
 
-#### Instalar Ferramentas
+### Instalar Ferramentas
 
 Para correr o código localmente, é necessário instalar as seguintes ferramentas: `git` e `nodejs`.
 
-##### Para verificar se já tens tudo instalado coiso
+### Verificar se já tens o nodejs instalado e atualizado
 
-##### Se ainda precisares de instalar
+```bash
+npm -v  #verifica se tens o npm instalado e mostra-te a versao
+npm -i -g npm #atualizar para a versao mais recente (7.--)
+```
+
+### Se ainda precisares de Instalar:
 
 #### Windows
 
@@ -48,7 +57,7 @@ git clone https://github.com/<vosso username do github>/resumos-meec.git
 3. Dar setup do remote upstream
 
 ```bash
-git remote add remote upstream https://github.com/SparklingRita/resumos-meec.git
+git remote add upstream https://github.com/SparklingRita/resumos-meec.git
 ```
 
 4. Instalar dependências
