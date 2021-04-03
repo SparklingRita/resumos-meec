@@ -144,10 +144,115 @@ $$E= \frac {|\frac{Q_f-Q_i}{Q_i}|}{|\frac{P_f-P_i}{P_i}|}$$
 
 :::
 
-Desta forma compreende-se que a elasticidade de um produto é influenciada pela necessidade, possíveis substitutos, etc.
+Esta, depende:
 
-$E=1 \Rightarrow \text{Unitária}$
+- Das preferências;
+- Do tipo de bens/grau de necessidade;
+- Do peso no orçamento;
+- Da presença de substitutos;
+- Do horizonte temporal;
+- Dos determinantes da própria procura.
 
-$E>1 \Rightarrow \text{Elástica} \rightsquigarrow$ Variações no preço induzem a uma menor procura.
+A elasticidade pode ser caracterizada consoante o seu valor:
 
-$E<1 \Rightarrow \text{Rígida} \rightsquigarrow$ A procura mantém-se com flutuação do preço.
+::: tip Elasticidade
+
+$E=1 \Rightarrow \text{Unitária} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas mantém-se. Uma variação do preço implica uma variação praticamente proporcional na quantidade de procura.
+
+$E>1 \Rightarrow \text{Elástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas diminui. Uma pequena variação do preço faz com que a procura varie muito.
+
+$E<1 \Rightarrow \text{Rígida} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas $R = p \times Q$ aumenta. Uma pequena variação do preço implica uma variação quase nula na quantidade de procura.
+
+![vertical funcional](./img/img12.png)
+
+:::
+
+## Fatores que determinam a oferta
+
+A procura de bens pode ser definida pela curva vermelha do gráfico abaixo. De acordo com a curva do **demand(D)**, quando a quantidade de procura aumenta, o preço aumenta também.
+
+::: tip Por exemplo:
+
+Com a pandemia o preço das mascáras aumentou bastante porque, o **demand** era maior.
+
+![vertical funcional](./img/img13.png)
+
+- D $\rightsquigarrow$ demand
+- S $\rightsquigarrow$ oferta
+
+  :::
+
+O custo dos fatores produtivos, o progresso tecnológico e a expetativa de preços futuros são fatores influenciados da oferta. Novamente, o único fator que provoca uma deslocação sobre a curva é o preço, os demais provocam uma alteração da ordenada na origem.
+
+**O custo do mercado ocorre na interseção das curvas de procura e de oferta.**
+
+::: tip
+
+Quando uma das curvas se desloca para a direita dizemos que houve uma expansão do mercado. Em contrapartida, uma deslocação para a esquerda implica uma contração do mercado.
+
+![vertical funcional](./img/img14.png)
+
+Define-se como preço de equilíbrio, o preço referente à interseção das curvas de procura e oferta. Este ponto marca a região de equilíbrio entre excesso e a escassez.
+
+Nota: Basta uma das curvas variar, para o ponto de equilibrio se deslocar.
+
+:::
+
+## Tipos de Economias
+
+### **Economias de Escala**:
+
+A longo prazo os custos das empresas podem crescer:
+
+    - Proporcionalmente à quantidade (rendimentos à escala constante);
+    - Mais do que proporção (rendimentos decrescentes à escala/deseconomia de escala);
+    - Menos do que a proporção (rendimentos crescentes à escala ou economias de escala).
+
+![vertical funcional](./img/img15.png)
+
+Economias de escala ocorrem quando se aumenta a escala da produção e com isso se consegue a diminuição dos custos médios.
+
+### **Economias de Gama**:
+
+Economias semelhantes são possíveis com uma gama de produtos mais alargada. O custo de produção ou distribuição de dois ou mais produtos em conjunto. é mais baixo do que o custo de produção separado.
+
+::: tip Por exemplo:
+
+A venda e produção de hambúrgueres e batatas fritas.
+
+:::
+
+### **Economias de Experiência**:
+
+Economias de aprendizagem (custo unitário ou médio de produção decrescente com a quantidade produzida no passo). Há acumulação de esperiência e **know-how**.
+
+## Estruturas de Mercado
+
+A forma como uma empresa age depende do tipo de mercado onde ela se insere. A estrutura de mercado associada, frquentemente, aos tipos de custos mencionados, determina a margem (diferença entre o preço e o custo) que a empresa pode praticar - **poder de mercado**. Se houver economias de escala permanentes, por exemplo, o mercado tenderá a ser só de uma empresa. As diferentes estruturas de marcado são as seguintes:
+
+![vertical funcional](./img/img16.png)
+
+## O papel do estado
+
+A intervenção do estado é necessária em duas situações:
+
+1. **Corigir falhas de mercado** $\rightsquigarrow$ quando o mercado falha na afetação eficiente de recursos, por exemplo.
+
+   - Corrigir externalidades, isto é, quando as ações de um agente prejudicam ou beneficiam terceiros;
+   - Regular a atividade de determinados setores que são monópolios naturais (p.ex.: água);
+   - Fornecer bens que o setor privado não está interessado em produzir (ex: defesa nacinal).
+
+2. **Promover a equidade** $\rightsquigarrow$ correção de desigualdades socias inaceitáveis, por exemplo.
+   - Proceder à redistribuição do rendimento, através de yaxas de imposto mais elevadas para rendimentos mais elevados, atribuição de subsídio de desemprego, etc;
+   - Estabilizar a economia, desenvolvendo para tal as políticas adequadas.
+
+::: tip
+
+Assim, as empresas tomam decisões com base:
+
+- No enquadramento legal e macroeconómico;
+- No comportamento dos consumidores;
+- Nos determinantes da oferta (concorrência);
+- Em função de medidas públicas específicas.
+
+:::
