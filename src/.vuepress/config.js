@@ -61,7 +61,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['DerivadasOrdemSuperior'],
         },
         {
           title: '✏️ Exercícios',
