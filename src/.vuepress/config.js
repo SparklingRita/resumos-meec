@@ -79,7 +79,7 @@ module.exports = {
         {
           title: '✏️ Exercícios',
           collapsable: false,
-          children: [],
+          children: ['0005-fichas', ],
         },
       ],
       '/mo/': [
