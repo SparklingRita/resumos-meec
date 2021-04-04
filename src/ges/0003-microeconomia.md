@@ -86,7 +86,7 @@ $$\text{Taxa de variação real} = \frac {1 +\text{taxa de variação real}} {\t
 
 A microeconomia trata de assuntos menores que a macroeconomia. O mercado é um dos tópicos relevantes nesta área.
 
--**Mercado**: Conjunto dos que pretendem comprar (procura/demand) e dos que pretende vender (oferta/supply). Resultam o preço do produto e a quantidade transacionada. Existem vários fatores que influenciam a procura e a oferta.
+- **Mercado**: Conjunto dos que pretendem comprar (procura/demand) e dos que pretende vender (oferta/supply). Resultam o preço do produto e a quantidade transacionada. Existem vários fatores que influenciam a procura e a oferta.
 
 A procura de bens pode ser definida pela curva azul do gráfico a baixo.
 
@@ -115,6 +115,7 @@ O preço dos cinemas subiu em 5€ no último ano:
 :::
 
 - **Bens Substituidos**: São bens que oferecem o mesmo, mas de empresas diferentes, por exemplo, Coca-Cola VS Pepsi. Neste caso, quando o preço do substituto aumenta, a procura aumenta, e vice-versa.
+  - Quando o preço aumenta, a quantidade procurada desse bem retrai-se em proporção maior que a da subida do preço.
 
 ::: tip
 
@@ -198,6 +199,11 @@ Nota: Basta uma das curvas variar, para o ponto de equilibrio se deslocar.
 
 :::
 
+O progresso tecnológico influencia os mercados da seguinte maneira:
+
+- Desloca a curva de oferta para a direita (aumenta a quantidade, diminui o preço);
+- Dá origem a um novo equilíbrio do mercado, com maior quantidade transacionada e o preço mais baixo.
+
 ## Tipos de Economias
 
 ### **Economias de Escala**:
@@ -239,7 +245,7 @@ A intervenção do estado é necessária em duas situações:
 1. **Corigir falhas de mercado** $\rightsquigarrow$ quando o mercado falha na afetação eficiente de recursos, por exemplo.
 
    - Corrigir externalidades, isto é, quando as ações de um agente prejudicam ou beneficiam terceiros;
-   - Regular a atividade de determinados setores que são monópolios naturais (p.ex.: água);
+   - Regular a atividade de determinados setores que são monópolios naturais (p.ex.: água) $\rightsquigarrow$ Oligopólios ;
    - Fornecer bens que o setor privado não está interessado em produzir (ex: defesa nacinal).
 
 2. **Promover a equidade** $\rightsquigarrow$ correção de desigualdades socias inaceitáveis, por exemplo.
