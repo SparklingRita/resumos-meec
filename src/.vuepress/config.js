@@ -116,7 +116,12 @@ module.exports = {
         {
           title: '✏️ Laboratórios',
           collapsable: false,
-          children: ['0001-labs', ],
+          children: ['0001-labs','0002-labs', ],
+        },
+        {
+          title: '🖥️ Práticas',
+          collapsable: false,
+          children: ['0002-Praticas', ],
         },
         {
           title: '📃 Cheat Sheets',
