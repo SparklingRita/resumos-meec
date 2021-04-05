@@ -33,6 +33,7 @@ module.exports = {
     repo: 'SparklingRita/resumos-meec',
     editLinks: true,
     docsDir: 'src',
+    docsBranch: 'main',
     editLinkText: '',
     lastUpdated: true,
     smoothScroll: true,
