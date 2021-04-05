@@ -55,6 +55,11 @@ module.exports = {
           collapsable: false,
           children: [],
         },
+        {
+          title: '👨‍💻 Problemas',
+          collapsable: false,
+          children: ['0003-PB3'],
+        },
       ],
       '/cdi-ii/': [
         '',
