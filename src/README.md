@@ -29,7 +29,7 @@ Para correr o código localmente, é necessário instalar as seguintes ferrament
 
 ```bash
 npm -v  #verifica se tens o npm instalado e mostra-te a versao
-npm -i -g npm #atualizar para a versao mais recente (7.--)
+npm i -g npm #atualizar para a versao mais recente (7.--)
 ```
 
 ### Se ainda precisares de Instalar:
@@ -57,13 +57,13 @@ git clone https://github.com/<vosso username do github>/resumos-meec.git
 3. Dar setup do remote upstream
 
 ```bash
+cd resumos-meec #ir para a pasta certa
 git remote add upstream https://github.com/SparklingRita/resumos-meec.git
 ```
 
 4. Instalar dependências
 
 ```bash
-cd resumos-meec
 npm i
 ```
 
