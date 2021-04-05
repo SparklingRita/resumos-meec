@@ -19,6 +19,7 @@ no site de LEIC-A.
 - [Martim Bento](https://github.com/SparklingRita/resumos-meec/commits?author=G05B3)
 - [Rafaela Oliveira](https://github.com/SparklingRita/resumos-meec/commits?author=rafaelacorreiaoliveira)
 - [Rita Mendes](https://github.com/SparklingRita/resumos-meec/commits?author=SparklingRita)
+- [Rodrigo Coimbra](https://github.com/SparklingRita/resumos-meec/commits?author=RodsCoimbra)
 - [Tomás Martins](https://github.com/SparklingRita/resumos-meec/commits?author=tomasmartins77)
 
 ## Como Contribuir
