@@ -55,13 +55,18 @@ module.exports = {
           collapsable: false,
           children: [],
         },
+        {
+          title: '👨‍💻 Problemas',
+          collapsable: false,
+          children: ['0002-PB2','0003-PB3'],
+        },
       ],
       '/cdi-ii/': [
         '',
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['DerivadasOrdemSuperior'],
         },
         {
           title: '✏️ Exercícios',
@@ -79,7 +84,7 @@ module.exports = {
         {
           title: '✏️ Exercícios',
           collapsable: false,
-          children: [],
+          children: ['0005-fichas', ],
         },
       ],
       '/mo/': [
@@ -114,9 +119,14 @@ module.exports = {
           ],
         },
         {
-          title: '✏️ Exercícios',
+          title: '✏️ Laboratórios',
           collapsable: false,
-          children: [],
+          children: ['0001-labs','0002-labs', ],
+        },
+        {
+          title: '🖥️ Práticas',
+          collapsable: false,
+          children: ['0002-Praticas', ],
         },
         {
           title: '📃 Cheat Sheets',
