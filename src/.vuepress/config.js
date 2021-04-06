@@ -97,6 +97,8 @@ module.exports = {
             '0001-cinematica',
             '0002-leisnewton',
             '0003-simetrias-leis-conservacao',
+            '0004-campo-gravitico',
+            '0005-momento-linear'
           ],
         },
         {
