@@ -49,7 +49,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['0001-RN','0004-Comp', ],
         },
         {
           title: '👨‍💻 Laboratórios',
