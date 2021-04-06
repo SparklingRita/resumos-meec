@@ -67,12 +67,12 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['DerivadasOrdemSuperior'],
+          children: ['0002-DerivadasOrdemSuperior'],
         },
         {
           title: '✏️ Exercícios',
           collapsable: false,
-          children: [],
+          children: ['0001-fichas'],
         },
       ],
       '/ges/': [
