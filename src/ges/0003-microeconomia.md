@@ -71,7 +71,7 @@ Podemos então definir matemáticamente o índice entre o ano $x$ e o ano $y$ co
 
 $$\displaystyle I^P_{x/y} = \frac{\text{Custo de um cabaz de bens no ano } x}{\text{Custo de um cabaz de bens no ano } y}$$
 
-A taxa de inflaxão média entre estes anos será:
+A taxa de inflação média entre estes anos será:
 
 $$\displaystyle i_m = \sqrt[n]{I^P_{x/y}} - 1 \% $$
 em que n = número de anos
