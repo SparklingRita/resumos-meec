@@ -37,7 +37,7 @@ $$\sum \text{salários} + \text{juros} + \text{lucros} + \text{rendas} + \text{I
   Despesa interna = Consumo privado + Gastos do estado + Investimentos + Exportações - Importações
   :::
 
-* **Produtividade do trabalho**: Rácio entre o PIB e o número de horas efetivamente trabalhadas. Trata-se de um indicador de competitividade económica, pois elemina-se as diferenças na distribuição de população empregada a tempo completo e parcial.
+* **Produtividade do trabalho**: Rácio entre o PIB e o número de horas efetivamente trabalhadas. Trata-se de um indicador de competitividade económica, pois elimina-se as diferenças na distribuição de população empregada a tempo completo e parcial.
 
 - **Taxa de Desemprego**: Percentagem de população ativa em situação de desemprego involuntário.
 
@@ -49,14 +49,14 @@ $$\sum \text{salários} + \text{juros} + \text{lucros} + \text{rendas} + \text{I
 
 ## Taxa de Inflação
 
-A inflação pode ser definida como o aumento generalizado dos preços. Quando há inflação (positiva) o mesmo valor em euros, compra no futuro menos bens do que no presente. Na realiadade, a inflamação não é algo completamente mau. É saúdavel para uma economia ter uma determinada taxa de inflação. No entanto, quando esta atinge niveis extremamente elevados torna-se algo problemático.
+A inflação pode ser definida como o aumento generalizado dos preços. Quando há inflação (positiva) o mesmo valor em euros, compra no futuro menos bens do que no presente. Na realidade, a inflação não é algo completamente mau. É saúdavel para uma economia ter uma determinada taxa de inflação. No entanto, quando esta atinge niveis extremamente elevados torna-se algo problemático.
 
 ::: tip Por exemplo:
 
 A taxa de Inflação no ano 2019 em Portugal = 0,34% Ou seja um refrigerante que custava em 2018 1,72€, no fim de 2019 valerá
 $1,72 \times (1+0,0034) = 1,73$ €
 
-Nesse mesmo ano, a taxa de inflação em Portugal, em 2019 foi de 9585,9%. O refrigerante passaria a custar $1,72 \times (1+95,859) = 166,60$ €
+Nesse mesmo ano, a taxa de inflação na Venezuela foi de 9585,9%. O refrigerante passaria a custar $1,72 \times (1+95,859) = 166,60$ €
 
 Ou seja, se tivesse uma moeda de 2€ guardada, ao fim de um ano, ainda seria capaz de comparar o refrigerante em Portugal (situação saudável), mas não seria capaz de comprar o refrigerante na Venezuela (situação pouco saudável).
 :::
