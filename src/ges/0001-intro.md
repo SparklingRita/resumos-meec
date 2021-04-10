@@ -42,7 +42,7 @@ Empresas cujo objetivo principal não é o lucro, mas, em primeiro lugar, presta
 
 ## Competências de um Gestor
 
-![Management Level](./img/gestores)
+![Management Level](./img/gestores.jpg)
 
 - Conceptuais: Capacidade de ver a organização e entender as suas componentes, estabelecendo as relações entre elas e pensando estratégicamente sobre a sua gestão. Fundamental na gestão de topo.
 
