@@ -42,9 +42,11 @@ Empresas cujo objetivo principal não é o lucro, mas, em primeiro lugar, presta
 
 ## Competências de um Gestor
 
-- Conceptuais: Capacidade de ver a organização e entender as suas componentes, estabelecendo as relações entre elas e pensando estratégicamente sobre a sua gestão.
+![Management Level](./img/gestores)
 
-* Humanas: Capacidade de trabalhar com os outros individualmente ou em equipa.
+- Conceptuais: Capacidade de ver a organização e entender as suas componentes, estabelecendo as relações entre elas e pensando estratégicamente sobre a sua gestão. Fundamental na gestão de topo.
+
+* Humanas: Capacidade de trabalhar com os outros individualmente ou em equipa. Fundamental na gestão de topo e intermédia.
 
 - Técnicas: Domínio de tarefas especificas. Têm menor peso na gestão de topo.
 
@@ -54,7 +56,7 @@ Empresas cujo objetivo principal não é o lucro, mas, em primeiro lugar, presta
 
 :::
 
-Hoje em dia, para além destas competências mais clássicas existem ainda outras novas competências que relacionadas com a forma como se executam tarefas, a adptação das pessoas a novas ambientes e a necessidade de mudança, são elas:
+Hoje em dia, para além destas competências mais clássicas existem ainda outras novas competências que, relacionadas com a forma como se executam tarefas, a adaptação das pessoas a novas ambientes e a necessidade de mudança, são elas:
 
         - Liderança partilhada
         - Delegação de poderes
