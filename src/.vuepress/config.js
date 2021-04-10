@@ -54,7 +54,7 @@ module.exports = {
         {
           title: '👨‍💻 Laboratórios',
           collapsable: false,
-          children: [],
+          children: ['labs'],
         },
         {
           title: '👨‍💻 Problemas',
