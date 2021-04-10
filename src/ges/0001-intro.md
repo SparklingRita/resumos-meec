@@ -50,7 +50,7 @@ Empresas cujo objetivo principal não é o lucro, mas, em primeiro lugar, presta
 
 ::: tip Por exemplo:
 
-- Um aluno de MEEC foi contratado por um professor como monitor de laboratório. Este deve ser capaz de trabalhar com os restantes monitores de modo a uma boa convivência da equipa e uma boa divisão das tarefas propostas (Competências conceptuais e humanas), mas a razão principal da sua contratação é o facto de este ser ótimo a realizar projetos em Assembly, algo que realizará frequentemente (Competências Técnicas). Apesar do professor saber mexer em Assembly, este está mais focado na gestão eficiente dos seus laboratórios, sabendo o que os seus monitores fazem e prepondo um bom ambiente de trabalho (Competências conceptuais). Quando o professor precisa de preparar um laboratório, pede ao monitor que o faça.
+- Um aluno de MEEC foi contratado por um professor como monitor de laboratório. Este deve ser capaz de trabalhar com os restantes monitores de modo a uma boa convivência da equipa e uma boa divisão das tarefas propostas (Competências conceptuais e humanas), mas a razão principal da sua contratação é o facto de este ser ótimo a realizar projetos em Assembly, algo que realizará frequentemente (Competências Técnicas). Apesar do professor saber mexer em Assembly, este está mais focado na gestão eficiente dos seus laboratórios, sabendo o que os seus monitores fazem e propondo um bom ambiente de trabalho (Competências conceptuais). Quando o professor precisa de preparar um laboratório, pede ao monitor que o faça.
 
 :::
 
