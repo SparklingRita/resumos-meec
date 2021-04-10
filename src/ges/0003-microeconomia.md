@@ -162,7 +162,7 @@ $E=1 \Rightarrow \text{Unitária} \rightsquigarrow$ Quando o preço aumenta, a r
 
 $E>1 \Rightarrow \text{Elástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas diminui. Uma pequena variação do preço faz com que a procura varie muito.
 
-$E<1 \Rightarrow \text{Rígida} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas $R = p \times Q$ aumenta. Uma pequena variação do preço implica uma variação quase nula na quantidade de procura.
+$E<1 \Rightarrow \text{Rígida\Inelástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas $R = p \times Q$ aumenta. Uma pequena variação do preço implica uma variação quase nula na quantidade de procura.
 
 ![vertical funcional](./img/img12.png)
 
@@ -216,7 +216,9 @@ A longo prazo os custos das empresas podem crescer:
 
 ![vertical funcional](./img/img15.png)
 
-Economias de escala ocorrem quando se aumenta a escala da produção e com isso se consegue a diminuição dos custos médios.
+Economias de escala ocorrem quando se aumenta a escala da produção e com isso se consegue a diminuição dos custos médios. Estão associadas a mercados de monopólio.
+
+Deseconomias de escala ocorrem quando a produção diminui, logo diminuirão os custos de produção.
 
 ### **Economias de Gama**:
 
@@ -237,6 +239,8 @@ Economias de aprendizagem (custo unitário ou médio de produção decrescente c
 A forma como uma empresa age depende do tipo de mercado onde ela se insere. A estrutura de mercado associada, frquentemente, aos tipos de custos mencionados, determina a margem (diferença entre o preço e o custo) que a empresa pode praticar - **poder de mercado**. Se houver economias de escala permanentes, por exemplo, o mercado tenderá a ser só de uma empresa. As diferentes estruturas de marcado são as seguintes:
 
 ![vertical funcional](./img/img16.png)
+
+- Empresas de concorrência perfeita são **prince-taker** \Rightarrow não tem influencia sobre o preço do mercado.
 
 ## O papel do estado
 

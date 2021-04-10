@@ -87,6 +87,11 @@ module.exports = {
           collapsable: false,
           children: ['0005-fichas', ],
         },
+        {
+          title: '✏️ Testes de Anos Anteriores',
+          collapsable: false,
+          children: ['0006-testes', ],
+        },
       ],
       '/mo/': [
         '',
