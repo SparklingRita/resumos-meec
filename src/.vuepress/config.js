@@ -33,6 +33,7 @@ module.exports = {
     repo: 'SparklingRita/resumos-meec',
     editLinks: true,
     docsDir: 'src',
+    docsBranch: 'main',
     editLinkText: '',
     lastUpdated: true,
     smoothScroll: true,
@@ -48,12 +49,17 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['0001-RN','0004-Comp', ],
         },
         {
           title: '👨‍💻 Laboratórios',
           collapsable: false,
           children: [],
+        },
+        {
+          title: '👨‍💻 Problemas',
+          collapsable: false,
+          children: ['0002-PB2','0003-PB3'],
         },
       ],
       '/cdi-ii/': [
@@ -61,12 +67,12 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['0002-DerivadasOrdemSuperior'],
         },
         {
           title: '✏️ Exercícios',
           collapsable: false,
-          children: [],
+          children: ['0001-fichas'],
         },
       ],
       '/ges/': [
@@ -74,12 +80,12 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['0001-intro', '0002-OeRH', '0003-microeconomia'],
+          children: ['0001-intro', '0002-OeRH', '0003-microeconomia', '0004-IF'],
         },
         {
           title: '✏️ Exercícios',
           collapsable: false,
-          children: [],
+          children: ['0005-fichas', ],
         },
       ],
       '/mo/': [
@@ -91,6 +97,8 @@ module.exports = {
             '0001-cinematica',
             '0002-leisnewton',
             '0003-simetrias-leis-conservacao',
+            '0004-campo-gravitico',
+            '0005-momento-linear'
           ],
         },
         {
@@ -114,9 +122,14 @@ module.exports = {
           ],
         },
         {
-          title: '✏️ Exercícios',
+          title: '✏️ Laboratórios',
           collapsable: false,
-          children: [],
+          children: ['0001-labs','0002-labs', ],
+        },
+        {
+          title: '🖥️ Práticas',
+          collapsable: false,
+          children: ['0002-Praticas', ],
         },
         {
           title: '📃 Cheat Sheets',
