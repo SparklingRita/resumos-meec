@@ -232,7 +232,7 @@ A venda e produção de hambúrgueres e batatas fritas.
 
 ### **Economias de Experiência**:
 
-Economias de aprendizagem (custo unitário ou médio de produção decrescente com a quantidade produzida no passo). Há acumulação de esperiência e **know-how**.
+Economias de aprendizagem (custo unitário ou médio de produção decrescente com a quantidade produzida no passado). Há acumulação de esperiência e **know-how**.
 
 ## Estruturas de Mercado
 
