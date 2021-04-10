@@ -8,7 +8,7 @@ Gestão é o processo que visa atingir as metas e os objetivos de uma organizaç
 
 - **Eficácia**: Grau com que uma organização atinge os seus objetivos.
 
-* **Eficiência**: Quantidade/ valor dos recursos utilizados para atingir os objetivos.
+- **Eficiência**: Quantidade/ valor dos recursos utilizados para atingir os objetivos.
   ::: tip Por exemplo:
   1. Um carro pode ser uma forma de transporte muito eficaz, capaz de mover as pessoas para lugares específicos. Porém, um carro pode não ser o modo mais eficiente de transporte devido ao grande gasto de combustível.
   2. A eficiência no local de trabalho pode ser definida como o tempo necessário para fazer algo. Funcionários/gerentes eficientes completam as tarefas no mínimo tempo possível.
@@ -17,13 +17,15 @@ Gestão é o processo que visa atingir as metas e os objetivos de uma organizaç
 
 ## Funções da Gestão
 
-- Planeamento: Definição de metas/objetivos das tarefas e recursos necessários para as/os atingir. A brange a Gestão Estratégica e Marketing.
+Gestão é o processo que visa atingir as metas e os objetivos de uma organização, de forma eficiente, através de 4 grandes funções (POLC)
 
-* Organização: Forma como se pretende desenvolver a atividade preparada. Implica a definição da EStrutura Organizacional.
+- **Planeamento:** Definição de metas/objetivos das tarefas e recursos necessários para as/os atingir. A brange a Gestão Estratégica e Marketing.
 
-- Liderança: Dirigir, influenciar e motivar os membros da organização. Está associada à Gestão de Recursos Humanos.
+- **Organização:** Forma como se pretende desenvolver a atividade preparada. Implica a definição da Estrutura Organizacional.
 
-* Controlo: Monitorização das atividades e das pessoas e verificação se os objetivos estão a ser atingidos. Engloba nomeadamente a Análiseda Informação Financeira.
+- **Liderança:** Dirigir, influenciar e motivar os membros da organização. Está associada à Gestão de Recursos Humanos.
+
+- **Controlo:** Monitorização das atividades e das pessoas e verificação se os objetivos estão a ser atingidos. Engloba nomeadamente a Análise da Informação Financeira.
 
 ## Definição de Organização
 
