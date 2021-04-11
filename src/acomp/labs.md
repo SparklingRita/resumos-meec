@@ -1,9 +1,9 @@
-# Laboratórios
+# Laboratório 2
 
-## Laboratório 2
+# Exercicio de casa - by RodsCoimbra
 
-#Exercicio de casa - by RodsCoimbra
 ::: details Resolução
+
 ```asm6502
 	.data
 a: .word 0
@@ -11,7 +11,7 @@ b: .word 0
 c: .word 0
 d: .word 0
 y: .word 0
-	
+
 	.text
 rede_neuronal_xor:
 	la a1, c
@@ -34,7 +34,7 @@ rede_neuronal_xor:
 	jal x1, neuronio
 	sw x10, 0(a3)
 
-	
+
 	li x17, 1
 	ecall
 	li x17, 10
@@ -73,14 +73,15 @@ multiplica:
 	neg t1,t1
 	neg t0, t0
 
-for: 
+for:
 	add t2, t0, t2
 	addi t1, t1, -1
 	bgtz t1, for
-	
+
 	addi x2, x2, -4
 	sw t2, 0(x2)
 	jalr x0, x1, 0
-  
-  ``` 
-  :::
+
+```
+
+:::
