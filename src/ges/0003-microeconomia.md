@@ -123,7 +123,16 @@ O preço dos cinemas subiu em 5€ no último ano:
 
 :::
 
-- **Rendimento**: O efeito do rendimento do consumidor nos bens difere consoante o tipo de bem. No caso dos **bens normais**, quando o rendiemento aumenta, a procura aumenta, um exemplo são as viagens de avião. No caso dos **bens inferiores**, a procura diminui com o aumento do rendimento, um exemplo são os produtos resultantes de pirataria ou os produtos de "marca branca".
+- **Bens Complementares**: São bens que não são funcionais sem um outro bem, é necessário comprar um segundo item para conjugar o primero. Neste caso, quando o preço do complementar aumenta, a procura diminui e vice-versa.
+
+::: tip Exemplo
+
+Um bom exemplo deste tipo de bens são as impressoras e os computadores ou os jogos e as consolas.  
+Se o _Preço_ da impressora _diminui_ \rightarrow _Procura_ dos cartuxos _aumenta_ (ao mesmo preço)
+
+:::
+
+- **Rendimento**: O efeito do rendimento do consumidor nos bens difere consoante o tipo de bem. No caso dos **bens normais**, quando o rendimento aumenta, a procura aumenta, um exemplo são as viagens de avião. No caso dos **bens inferiores**, a procura diminui com o aumento do rendimento, um exemplo são os produtos resultantes de pirataria ou os produtos de "marca branca".
 
 - **Gastos/Preferências/Moda/Cultura**: Este fator depende do tipo de consumidor. Alguns preferem uma determinada marca ou uma determinada cor e outros simplesmente adquirem alguns bens por estarem na moda - estar na moda aumenta a procura de um bem.
 
@@ -133,7 +142,7 @@ Como foi possível observar, a única deslocação sobre a curva dá-se quando h
 
 ## Elasticidade
 
-- **Elasticidade procura-preço (Ed)**: Medida de sensibilidade da quantidade procurada face à variação do preço. Esta é dada pelo quaociente entre duas variações proporcionais:
+- **Elasticidade procura-preço (Ed)**: Medida de sensibilidade da quantidade procurada face à variação do preço. Esta é dada pelo quociente entre duas variações proporcionais:
 
 ::: tip
 
@@ -253,7 +262,7 @@ A intervenção do estado é necessária em duas situações:
    - Fornecer bens que o setor privado não está interessado em produzir (ex: defesa nacinal).
 
 2. **Promover a equidade** $\rightsquigarrow$ correção de desigualdades socias inaceitáveis, por exemplo.
-   - Proceder à redistribuição do rendimento, através de yaxas de imposto mais elevadas para rendimentos mais elevados, atribuição de subsídio de desemprego, etc;
+   - Proceder à redistribuição do rendimento, através de taxas de imposto mais elevadas para rendimentos mais elevados, atribuição de subsídio de desemprego, etc;
    - Estabilizar a economia, desenvolvendo para tal as políticas adequadas.
 
 ::: tip
