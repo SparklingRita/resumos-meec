@@ -245,7 +245,7 @@ Economias de aprendizagem (custo unitário ou médio de produção decrescente c
 
 ## Estruturas de Mercado
 
-A forma como uma empresa age depende do tipo de mercado onde ela se insere. A estrutura de mercado associada, frquentemente, aos tipos de custos mencionados, determina a margem (diferença entre o preço e o custo) que a empresa pode praticar - **poder de mercado**. Se houver economias de escala permanentes, por exemplo, o mercado tenderá a ser só de uma empresa. As diferentes estruturas de marcado são as seguintes:
+A forma como uma empresa age depende do tipo de mercado onde ela se insere. A estrutura de mercado associada, frequentemente, aos tipos de custos mencionados, determina a margem (diferença entre o preço e o custo) que a empresa pode praticar - **poder de mercado**. Se houver economias de escala permanentes, por exemplo, o mercado tenderá a ser só de uma empresa. As diferentes estruturas de mercado são as seguintes:
 
 ![vertical funcional](./img/img16.png)
 
