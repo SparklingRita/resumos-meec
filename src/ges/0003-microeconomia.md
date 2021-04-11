@@ -231,7 +231,7 @@ Deseconomias de escala ocorrem quando a produção diminui, logo diminuirão os 
 
 ### **Economias de Gama**:
 
-Economias semelhantes são possíveis com uma gama de produtos mais alargada. O custo de produção ou distribuição de dois ou mais produtos em conjunto. é mais baixo do que o custo de produção separado.
+Economias semelhantes são possíveis com uma gama de produtos mais alargada. O custo de produção ou distribuição de dois ou mais produtos em conjunto é mais baixo do que o custo de produção separado.
 
 ::: tip Por exemplo:
 
@@ -241,7 +241,7 @@ A venda e produção de hambúrgueres e batatas fritas.
 
 ### **Economias de Experiência**:
 
-Economias de aprendizagem (custo unitário ou médio de produção decrescente com a quantidade produzida no passado). Há acumulação de esperiência e **know-how**.
+Economias de aprendizagem (custo unitário ou médio de produção decrescente com a quantidade produzida no passado). Há acumulação de experiência e **know-how**.
 
 ## Estruturas de Mercado
 
