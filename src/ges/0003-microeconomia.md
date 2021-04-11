@@ -73,7 +73,7 @@ $$\displaystyle I^P_{x/y} = \frac{\text{Custo de um cabaz de bens no ano } x}{\t
 
 A taxa de inflação média entre estes anos será:
 
-$$\displaystyle i_m = \sqrt[n]{I^P_{x/y}} - 1 \$$
+$$\displaystyle i_m = \sqrt[n]{I^P_{x/y}} - 1$$
 em que n = número de anos
 
 :::
@@ -162,7 +162,7 @@ $E=1 \Rightarrow \text{Unitária} \rightsquigarrow$ Quando o preço aumenta, a r
 
 $E>1 \Rightarrow \text{Elástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas diminui. Uma pequena variação do preço faz com que a procura varie muito.
 
-$E<1 \Rightarrow \text{Rígida\Inelástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas $R = p \times Q$ aumenta. Uma pequena variação do preço implica uma variação quase nula na quantidade de procura.
+$E<1 \Rightarrow \text{Rígida Inelástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas $R = p \times Q$ aumenta. Uma pequena variação do preço implica uma variação quase nula na quantidade de procura.
 
 ![vertical funcional](./img/img12.png)
 
