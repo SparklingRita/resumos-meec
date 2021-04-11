@@ -240,7 +240,7 @@ A forma como uma empresa age depende do tipo de mercado onde ela se insere. A es
 
 ![vertical funcional](./img/img16.png)
 
-- Empresas de concorrência perfeita são **prince-taker** \Rightarrow não tem influencia sobre o preço do mercado.
+- Empresas de concorrência perfeita são **prince-taker** \rightarrow não tem influência sobre o preço do mercado.
 
 ## O papel do estado
 
