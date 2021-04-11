@@ -73,7 +73,7 @@ $$\displaystyle I^P_{x/y} = \frac{\text{Custo de um cabaz de bens no ano } x}{\t
 
 A taxa de inflação média entre estes anos será:
 
-$$\displaystyle i_m = \sqrt[n]{I^P_{x/y}} - 1 \% $$
+$$\displaystyle i_m = \sqrt[n]{I^P_{x/y}} - 1 \$$
 em que n = número de anos
 
 :::
