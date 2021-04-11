@@ -1,6 +1,6 @@
 # Laboratório 2
 
-# Exercicio de casa - by RodsCoimbra
+## Exercicio de casa - by RodsCoimbra
 
 ::: details Resolução
 
