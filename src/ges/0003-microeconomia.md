@@ -249,19 +249,19 @@ A forma como uma empresa age depende do tipo de mercado onde ela se insere. A es
 
 ![vertical funcional](./img/img16.png)
 
-- Empresas de concorrência perfeita são **prince-taker** \rightarrow não tem influência sobre o preço do mercado.
+- Empresas de concorrência perfeita são **prince-taker** $\rightarrow$ não tem influência sobre o preço do mercado.
 
 ## O papel do estado
 
 A intervenção do estado é necessária em duas situações:
 
-1. **Corigir falhas de mercado** $\rightsquigarrow$ quando o mercado falha na afetação eficiente de recursos, por exemplo.
+1. **Corrigir falhas de mercado** $\rightsquigarrow$ quando o mercado falha na afetação eficiente de recursos, por exemplo.
 
    - Corrigir externalidades, isto é, quando as ações de um agente prejudicam ou beneficiam terceiros;
    - Regular a atividade de determinados setores que são monópolios naturais (p.ex.: água) $\rightsquigarrow$ Oligopólios ;
-   - Fornecer bens que o setor privado não está interessado em produzir (ex: defesa nacinal).
+   - Fornecer bens que o setor privado não está interessado em produzir (ex: defesa nacional).
 
-2. **Promover a equidade** $\rightsquigarrow$ correção de desigualdades socias inaceitáveis, por exemplo.
+2. **Promover a equidade** $\rightsquigarrow$ correção de desigualdades sociais inaceitáveis, por exemplo.
    - Proceder à redistribuição do rendimento, através de taxas de imposto mais elevadas para rendimentos mais elevados, atribuição de subsídio de desemprego, etc;
    - Estabilizar a economia, desenvolvendo para tal as políticas adequadas.
 
