@@ -73,12 +73,12 @@ $$\displaystyle I^P_{x/y} = \frac{\text{Custo de um cabaz de bens no ano } x}{\t
 
 A taxa de inflação média entre estes anos será:
 
-$$\displaystyle i_m = \sqrt[n]{I^P_{x/y}} - 1 \% $$
+$$\displaystyle i_m = \sqrt[n]{I^P_{x/y}} - 1$$
 em que n = número de anos
 
 :::
 
-A **deflação** é o processo inverso à inflação, ou seja, uma diminuição do indice de preços do consumidor, associada a uma queda de preços. Apesar de, intuitivamente pensarmos que se trata de uma coisa boa (comprar mais com a mesma quantidade de dinheiro), a deflação está associada a períodos de recesão nacional.
+A **deflação** é o processo inverso à inflação, ou seja, uma diminuição do indice de preços do consumidor, associada a uma queda de preços. Apesar de, intuitivamente pensarmos que se trata de uma coisa boa (comprar mais com a mesma quantidade de dinheiro), a deflação está associada a períodos de recessão nacional.
 
 $$\text{Taxa de variação real} = \frac {1 +\text{taxa de variação real}} {\text{1 + taxa de inflação}} -1$$
 
@@ -171,7 +171,7 @@ $E=1 \Rightarrow \text{Unitária} \rightsquigarrow$ Quando o preço aumenta, a r
 
 $E>1 \Rightarrow \text{Elástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas diminui. Uma pequena variação do preço faz com que a procura varie muito.
 
-$E<1 \Rightarrow \text{Rígida\Inelástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas $R = p \times Q$ aumenta. Uma pequena variação do preço implica uma variação quase nula na quantidade de procura.
+$E<1 \Rightarrow \text{Rígida Inelástica} \rightsquigarrow$ Quando o preço aumenta, a receita das vendas $R = p \times Q$ aumenta. Uma pequena variação do preço implica uma variação quase nula na quantidade de procura.
 
 ![vertical funcional](./img/img12.png)
 
@@ -249,7 +249,7 @@ A forma como uma empresa age depende do tipo de mercado onde ela se insere. A es
 
 ![vertical funcional](./img/img16.png)
 
-- Empresas de concorrência perfeita são **prince-taker** \Rightarrow não tem influencia sobre o preço do mercado.
+- Empresas de concorrência perfeita são **prince-taker** \rightarrow não tem influência sobre o preço do mercado.
 
 ## O papel do estado
 
