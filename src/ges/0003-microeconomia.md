@@ -128,7 +128,7 @@ O preço dos cinemas subiu em 5€ no último ano:
 ::: tip Exemplo
 
 Um bom exemplo deste tipo de bens são as impressoras e os computadores ou os jogos e as consolas.  
-Se o _Preço_ da impressora _diminui_ \rightarrow _Procura_ dos cartuxos _aumenta_ (ao mesmo preço)
+Se o _Preço_ da impressora _diminui_ $\rightarrow$ _Procura_ dos cartuxos _aumenta_ (ao mesmo preço)
 
 :::
 
