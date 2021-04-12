@@ -114,7 +114,7 @@ O preço dos cinemas subiu em 5€ no último ano:
 
 :::
 
-- **Bens Substituidos**: São bens que oferecem o mesmo, mas de empresas diferentes, por exemplo, Coca-Cola VS Pepsi. Neste caso, quando o preço do substituto aumenta, a procura aumenta, e vice-versa.
+- **Bens Substitutos**: São bens que oferecem o mesmo, mas de empresas diferentes, por exemplo, Coca-Cola VS Pepsi. Neste caso, quando o preço do substituto aumenta, a procura do outro aumenta, e vice-versa.
   - Quando o preço aumenta, a quantidade procurada desse bem retrai-se em proporção maior que a da subida do preço.
 
 ::: tip
