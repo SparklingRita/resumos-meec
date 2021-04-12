@@ -3,6 +3,7 @@
 - [Capítulo 1 e 2](https://drive.google.com/file/d/1nvNlxlBd9Y72bD5jbmEw-LQgai8jc8-4/view?usp=sharing)
 
   - Ainda não encontrei as respostas oficiais destes capítulos
+  - [Resolução by Rita Mendes](https://drive.google.com/file/d/1UycbNQe-D-eVnkTpQ1xIzzz5U8O0lzaQ/view?usp=sharing)
 
 - [Capítulo 3](https://drive.google.com/file/d/1DKpKzOmKrAAVbTRfAsDBkJaX22adZPxQ/view?usp=sharing)
 

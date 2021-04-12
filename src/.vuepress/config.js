@@ -33,6 +33,7 @@ module.exports = {
     repo: 'SparklingRita/resumos-meec',
     editLinks: true,
     docsDir: 'src',
+    docsBranch: 'main',
     editLinkText: '',
     lastUpdated: true,
     smoothScroll: true,
@@ -48,17 +49,17 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: [],
+          children: ['0001-RN','0004-Comp', ],
         },
         {
           title: '👨‍💻 Laboratórios',
           collapsable: false,
-          children: [],
+          children: ['labs'],
         },
         {
           title: '👨‍💻 Problemas',
           collapsable: false,
-          children: ['0003-PB3'],
+          children: ['0002-PB2','0003-PB3'],
         },
       ],
       '/cdi-ii/': [
@@ -66,12 +67,17 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['DerivadasOrdemSuperior'],
+          children: ['0002-DerivadasOrdemSuperior'],
         },
         {
           title: '✏️ Exercícios',
           collapsable: false,
-          children: [],
+          children: ['0001-fichas'],
+        },
+        {
+          title: '📒 Cheat Sheets',
+          collapsable: false,
+          children: ['cheat-sheet'],
         },
       ],
       '/ges/': [
@@ -86,6 +92,11 @@ module.exports = {
           collapsable: false,
           children: ['0005-fichas', ],
         },
+        {
+          title: '✏️ Testes de Anos Anteriores',
+          collapsable: false,
+          children: ['0006-testes', ],
+        },
       ],
       '/mo/': [
         '',
@@ -96,6 +107,8 @@ module.exports = {
             '0001-cinematica',
             '0002-leisnewton',
             '0003-simetrias-leis-conservacao',
+            '0004-campo-gravitico',
+            '0005-momento-linear'
           ],
         },
         {
@@ -168,6 +181,9 @@ module.exports = {
     ],
    
   ],
- 
-  
+  markdown: {
+    extendMarkdown: (md) => {
+      md.use(require('markdown-it-color').default);
+    },
+  },
 };

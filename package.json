@@ -19,6 +19,7 @@
   "homepage": "https://github.com/SparklingRita/resumos-meec#readme",
   "devDependencies": {
     "@maginapp/vuepress-plugin-katex": "^1.0.11",
+    "markdown-it-color": "^2.1.1",
     "prettier": "^1.19.1",
     "vuepress": "^1.8.2",
     "vuepress-plugin-seo": "^0.1.4",

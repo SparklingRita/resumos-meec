@@ -8,7 +8,7 @@ Gestão é o processo que visa atingir as metas e os objetivos de uma organizaç
 
 - **Eficácia**: Grau com que uma organização atinge os seus objetivos.
 
-* **Eficiência**: Quantidade/ valor dos recursos utilizados para atingir os objetivos.
+- **Eficiência**: Quantidade/ valor dos recursos utilizados para atingir os objetivos.
   ::: tip Por exemplo:
   1. Um carro pode ser uma forma de transporte muito eficaz, capaz de mover as pessoas para lugares específicos. Porém, um carro pode não ser o modo mais eficiente de transporte devido ao grande gasto de combustível.
   2. A eficiência no local de trabalho pode ser definida como o tempo necessário para fazer algo. Funcionários/gerentes eficientes completam as tarefas no mínimo tempo possível.
@@ -17,13 +17,15 @@ Gestão é o processo que visa atingir as metas e os objetivos de uma organizaç
 
 ## Funções da Gestão
 
-- Planeamento: Definição de metas/objetivos das tarefas e recursos necessários para as/os atingir. A brange a Gestão Estratégica e Marketing.
+Gestão é o processo que visa atingir as metas e os objetivos de uma organização, de forma eficiente, através de 4 grandes funções (POLC)
 
-* Organização: Forma como se pretende desenvolver a atividade preparada. Implica a definição da EStrutura Organizacional.
+- **Planeamento:** Definição de metas/objetivos das tarefas e recursos necessários para as/os atingir. A brange a Gestão Estratégica e Marketing.
 
-- Liderança: Dirigir, influenciar e motivar os membros da organização. Está associada à Gestão de Recursos Humanos.
+- **Organização:** Forma como se pretende desenvolver a atividade preparada. Implica a definição da Estrutura Organizacional.
 
-* Controlo: Monitorização das atividades e das pessoas e verificação se os objetivos estão a ser atingidos. Engloba nomeadamente a Análiseda Informação Financeira.
+- **Liderança:** Dirigir, influenciar e motivar os membros da organização. Está associada à Gestão de Recursos Humanos.
+
+- **Controlo:** Monitorização das atividades e das pessoas e verificação se os objetivos estão a ser atingidos. Engloba nomeadamente a Análise da Informação Financeira.
 
 ## Definição de Organização
 
@@ -40,19 +42,21 @@ Empresas cujo objetivo principal não é o lucro, mas, em primeiro lugar, presta
 
 ## Competências de um Gestor
 
-- Conceptuais: Capacidade de ver a organização e entender as suas componentes, estabelecendo as relações entre elas e pensando estratégicamente sobre a sua gestão.
+![Management Level](./img/gestores.jpg)
 
-* Humanas: Capacidade de trabalhar com os outros individualmente ou em equipa.
+- Conceptuais: Capacidade de ver a organização e entender as suas componentes, estabelecendo as relações entre elas e pensando estratégicamente sobre a sua gestão. Fundamental na gestão de topo.
+
+* Humanas: Capacidade de trabalhar com os outros individualmente ou em equipa. Fundamental na gestão de topo e intermédia.
 
 - Técnicas: Domínio de tarefas especificas. Têm menor peso na gestão de topo.
 
 ::: tip Por exemplo:
 
-- Um aluno de MEEC foi contratado por um professor como monitor de laboratório. Este deve ser capaz de trabalhar com os restantes monitores de modo a uma boa convivência da equipa e uma boa divisão das tarefas propostas (Competências conceptuais e humanas), mas a razão principal da sua contratação é o facto de este ser ótimo a realizar projetos em Assembly, algo que realizará frequentemente (Competências Técnicas). Apesar do professor saber mexer em Assembly, este está mais focado na gestão eficiente dos seus laboratórios, sabendo o que os seus monitores fazem e prepondo um bom ambiente de trabalho (Competências conceptuais). Quando o professor precisa de preparar um laboratório, pede ao monitor que o faça.
+- Um aluno de MEEC foi contratado por um professor como monitor de laboratório. Este deve ser capaz de trabalhar com os restantes monitores de modo a uma boa convivência da equipa e uma boa divisão das tarefas propostas (Competências conceptuais e humanas), mas a razão principal da sua contratação é o facto de este ser ótimo a realizar projetos em Assembly, algo que realizará frequentemente (Competências Técnicas). Apesar do professor saber mexer em Assembly, este está mais focado na gestão eficiente dos seus laboratórios, sabendo o que os seus monitores fazem e propondo um bom ambiente de trabalho (Competências conceptuais). Quando o professor precisa de preparar um laboratório, pede ao monitor que o faça.
 
 :::
 
-Hoje em dia, para além destas competências mais clássicas existem ainda outras novas competências que relacionadas com a forma como se executam tarefas, a adptação das pessoas a novas ambientes e a necessidade de mudança, são elas:
+Hoje em dia, para além destas competências mais clássicas existem ainda outras novas competências que, relacionadas com a forma como se executam tarefas, a adaptação das pessoas a novas ambientes e a necessidade de mudança, são elas:
 
         - Liderança partilhada
         - Delegação de poderes
