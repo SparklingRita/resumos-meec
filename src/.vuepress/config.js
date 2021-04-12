@@ -74,6 +74,11 @@ module.exports = {
           collapsable: false,
           children: ['0001-fichas'],
         },
+        {
+          title: '📒 Cheat Sheets',
+          collapsable: false,
+          children: ['cheat-sheet'],
+        },
       ],
       '/ges/': [
         '',
