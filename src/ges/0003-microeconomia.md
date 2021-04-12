@@ -80,7 +80,7 @@ em que n = número de anos
 
 A **deflação** é o processo inverso à inflação, ou seja, uma diminuição do indice de preços do consumidor, associada a uma queda de preços. Apesar de, intuitivamente pensarmos que se trata de uma coisa boa (comprar mais com a mesma quantidade de dinheiro), a deflação está associada a períodos de recessão nacional.
 
-$$\text{Taxa de variação real} = \frac {1 +\text{taxa de variação real}} {\text{1 + taxa de inflação}} -1$$
+$$\text{Taxa de variação real} = \frac {1 +\text{taxa nominal}} {\text{1 + taxa de inflação}} -1$$
 
 ## Microeconomia
 
