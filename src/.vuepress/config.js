@@ -93,9 +93,9 @@ module.exports = {
           children: ['0005-fichas', ],
         },
         {
-          title: '✏️ Testes de Anos Anteriores',
+          title: '✏️ Testes e Exames de Anos Anteriores',
           collapsable: false,
-          children: ['0006-testes', ],
+          children: ['0006-testes','0007-exams', ],
         },
       ],
       '/mo/': [

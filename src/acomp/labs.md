@@ -93,7 +93,7 @@ A função **y** deve receber os 3 parametros pela pilha.
 As funções OR e A \oplus \overline{C} podem ser implementados por neurónios com os seguintes pesos:
 
 - OR: w1 = 2, w2 = 2, b= -1
-- A \oplus \overline{C}: w1 = 2, w2 = -2, b= -1
+- A $\oplus$ $\overline{C}$: w1 = 2, w2 = -2, b= -1
 
 Teste a função utilizando código que a chama 8 vezes com os valores da tabela de verdade (não é necessário um loop) e apresente os resultados na consola.
 
