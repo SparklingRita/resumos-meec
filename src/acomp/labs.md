@@ -88,7 +88,7 @@ for:
 
 ## Lab 2 - by Martim Bento
 
-Modificque o código de forma a implementar a função: $y = A \oplus \overline{C}$.
+Modifique o código de forma a implementar a função: $y = A \oplus \overline{C}$.
 A função **y** deve receber os 3 parametros pela pilha.
 As funções OR e A $\oplus$ $\overline{C}$ podem ser implementados por neurónios com os seguintes pesos:
 
@@ -202,6 +202,7 @@ ecall
 ### Ex2 - by Tomás Martins
 
 ::: details Resolução
+
 ```asm6502
 #(a xor b).(c or a)
     .data
@@ -235,7 +236,7 @@ rede_neuronal_xor:
     lw a2,a
     jal x1,neuronio
     la a1, corb
-    sw a0,0(a1)    
+    sw a0,0(a1)
     lw a1,axorb
     lw a2,corb
     li a5,-3
@@ -245,14 +246,14 @@ rede_neuronal_xor:
 
     li x17,1
     ecall
-    
+
     li x17,10
     ecall
 
 neuronio:
     addi sp,sp,-28  # criação de espaço na pilha
     sw x1,24(sp)
-    sw a1,20(sp)    
+    sw a1,20(sp)
     sw a2,16(sp)
     sw a3,12(sp)
     sw a4,8(sp)
@@ -276,7 +277,7 @@ neuronio:
     li a0,0
     ret
 if1:
-    li a0,1    
+    li a0,1
     ret
 multiplica:
     lw t1,20(sp)
@@ -300,4 +301,5 @@ loop:
     sw t3,0(sp)
     ret
 ```
+
 :::
