@@ -88,7 +88,7 @@ for:
 
 ## Lab 2 - by Martim Bento
 
-Modificque o código de forma a implementar a função: \$y = A \oplus \overline{C}.
+Modificque o código de forma a implementar a função: $y = A \oplus \overline{C}$.
 A função **y** deve receber os 3 parametros pela pilha.
 As funções OR e A $\oplus$ $\overline{C}$ podem ser implementados por neurónios com os seguintes pesos:
 
