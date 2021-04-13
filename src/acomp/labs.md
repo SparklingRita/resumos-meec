@@ -90,7 +90,7 @@ for:
 
 Modificque o código de forma a implementar a função: \$y = A \oplus \overline{C}.
 A função **y** deve receber os 3 parametros pela pilha.
-As funções OR e A \oplus \overline{C} podem ser implementados por neurónios com os seguintes pesos:
+As funções OR e A $\oplus$ $\overline{C}$ podem ser implementados por neurónios com os seguintes pesos:
 
 - OR: w1 = 2, w2 = 2, b= -1
 - A $\oplus$ $\overline{C}$: w1 = 2, w2 = -2, b= -1
