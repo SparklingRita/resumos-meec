@@ -95,7 +95,7 @@ module.exports = {
         {
           title: '✏️ Testes e Exames de Anos Anteriores',
           collapsable: false,
-          children: ['0006-testes','0007-exams', ],
+          children: ['0006-testes','0007-exams','0008-online' ],
         },
       ],
       '/mo/': [
