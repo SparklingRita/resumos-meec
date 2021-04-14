@@ -15,6 +15,7 @@ no site de LEIC-A.
 
 ## Contribuidores 💛
 
+- [João Gonçalves](https://github.com/SparklingRita/resumos-meec/commits?author=eusouojoao)
 - [João Rodrigues](https://github.com/SparklingRita/resumos-meec/commits?author=Joao-Ex-Machina)
 - [Madalena Barros](https://github.com/SparklingRita/resumos-meec/commits?author=madalenarb)
 - [Martim Bento](https://github.com/SparklingRita/resumos-meec/commits?author=G05B3)
