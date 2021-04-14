@@ -86,6 +86,89 @@ for:
 
 :::
 
+### Ex de casa - by Tomás Martins
+
+::: details Resolução
+
+```asm6502
+.data
+a: .word 1
+b: .word 1
+.text
+rede_neuronal_xor:
+	lw a1,a
+	lw a2,b
+	li a3,-2
+	li a4,2
+	jal x2,neuronio
+	mv s1,a0
+	li a3,2
+	li a4,-2
+	jal x2,neuronio
+	mv s2,a0
+	mv a1,s1
+	mv a2,s2
+	li a3,2
+	li,a4,2
+	jal x2,neuronio
+	
+	li x17,1
+	ecall
+	
+	li x17,10
+	ecall
+
+neuronio:
+	mv a5,a1
+	mv a6,a4
+	jal x1,multiplica
+	lw s3,0(sp)
+	addi sp,sp,4
+	mv a5,a2
+	mv a6,a3
+	jal x1,multiplica
+	lw s4,0(sp)
+	addi sp,sp,4
+	li a5,-1
+	add s3,s3,s4
+	add s3,s3,a5
+	bgez s3,if1
+	li a0,0
+	jalr x0,x2,0
+if1:
+	li a0,1	
+	jalr x0,x2,0
+
+multiplica:
+	addi sp,sp,-12
+	mv t1,a5
+	sw t1,4(sp)
+	mv t2,a6
+	sw t2,0(sp)
+	li t3,0
+	bgez t2,loop
+loop1:
+	neg t2,t2
+	add t3,t3,t1
+	addi t2,t2,-1
+	bgtz t2,loop1
+	neg t3,t3
+	sw t3,8(sp)
+	
+	addi sp,sp,8
+	ret
+loop:
+	add t3,t3,t1
+	addi t2,t2,-1
+	bgtz t2,loop
+	sw t3,8(sp)
+	
+	addi sp,sp,8
+	ret
+```
+
+:::
+
 ## Lab 2 - by Martim Bento
 
 Modifique o código de forma a implementar a função: $y = A \oplus \overline{C}$.
@@ -195,111 +278,6 @@ ecall
 li x17, 10
 ecall
 
-```
-
-:::
-
-### Ex2 - by Tomás Martins
-
-::: details Resolução
-
-```asm6502
-#(a xor b).(c or a)
-    .data
-a: .word 1
-b: .word 0
-c: .word 1
-axorb: .word 0
-corb: .word 0
-y: .word 0
-    .text
-rede_neuronal_xor:
-    lw a1,a
-    lw a2,b
-    li a3,-2
-    li a4,2
-    li a5,-1
-    jal x1,neuronio
-    li a3,2
-    li a4,-2
-    mv s1,a0
-    jal x1,neuronio
-    mv s2,a0
-    mv a1,s1
-    mv a2,s2
-    li a3,2
-    li,a4,2
-    jal x1,neuronio
-    la a1, axorb
-    sw a0,0(a1)
-    lw a1,c
-    lw a2,a
-    jal x1,neuronio
-    la a1, corb
-    sw a0,0(a1)
-    lw a1,axorb
-    lw a2,corb
-    li a5,-3
-    jal x1,neuronio
-    la a1,y
-    sw a0,0(a1)
-
-    li x17,1
-    ecall
-
-    li x17,10
-    ecall
-
-neuronio:
-    addi sp,sp,-28  # criação de espaço na pilha
-    sw x1,24(sp)
-    sw a1,20(sp)
-    sw a2,16(sp)
-    sw a3,12(sp)
-    sw a4,8(sp)
-    sw a5,4(sp)
-    sw a6,0(sp)
-
-    jal x1,multiplica
-    lw s3,0(sp)
-    addi sp,sp,4
-    sw a3,8(sp)
-    sw a2,20(sp)
-    jal x1,multiplica
-    lw a7,0(sp)
-    addi sp,sp,4
-    lw a6,4(sp)
-    add s3,s3,a7
-    add s3,s3,a6
-    lw x1,24(sp)
-    addi sp,sp 28 # fecho da pilha
-    bgez s3,if1
-    li a0,0
-    ret
-if1:
-    li a0,1
-    ret
-multiplica:
-    lw t1,20(sp)
-    lw t2,8(sp)
-    li t3,0
-    bgez t2,loop
-loop1:
-    neg t2,t2
-    add t3,t3,t1
-    addi t2,t2,-1
-    bgtz t2,loop1
-    addi sp,sp -4
-    neg t3,t3
-    sw t3,0(sp)
-    ret
-loop:
-    add t3,t3,t1
-    addi t2,t2,-1
-    bgtz t2,loop
-    addi sp,sp -4
-    sw t3,0(sp)
-    ret
 ```
 
 :::
