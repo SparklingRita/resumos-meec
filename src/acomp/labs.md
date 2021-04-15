@@ -5,83 +5,80 @@
 ::: details Resolução
 
 ```asm6502
-	.data
-a: .word 0
-b: .word 0
-c: .word 0
-d: .word 0
-y: .word 0
-
-	.text
+.data
+a: .word 1
+b: .word 1
+.text
 rede_neuronal_xor:
-	la a1, c
-	la a2, d
-	la a3, y
-	lw s0, a
-	lw s1, b
-	li s2, 2
-	li s3, -2
-	jal x1, neuronio
-	sw x10, 0(a1)
-	li s2, -2
-	li s3, 2
-	jal x1, neuronio
-	sw x10, 0(a2)
-	lw s0, 0(a1)
-	lw s1, 0(a2)
-	li s2, 2
-	li s3, 2
-	jal x1, neuronio
-	sw x10, 0(a3)
-
-
-	li x17, 1
+	lw a1,a
+	lw a2,b
+	li a3,-2
+	li a4,2
+	jal x3,neuronio
+	mv s1,a0
+	li a3,2
+	li a4,-2
+	jal x3,neuronio
+	mv s2,a0
+	mv a1,s1
+	mv a2,s2
+	li a3,2
+	li,a4,2
+	jal x3,neuronio
+	
+	li x17,1
 	ecall
-	li x17, 10
+	
+	li x17,10
 	ecall
-
 
 neuronio:
-	addi x2, x2, -12
-	sw x1, 8(x2)
-	sw s2, 4(x2)
-	sw s0, 0(x2)
-	jal x1, multiplica
-	lw s5, 0(x2)
-	addi x2,x2, 4
-	sw s3, 4(x2)
-	sw s1, 0(x2)
-	jal x1, multiplica
-	lw s6, 0(x2)
-    addi x2, x2, 4
-	add s6, s6, s5
-	addi s6, s6, -1
-	lw x1, 8(x2)
-	addi x2, x2, 12
-	bge s6, x0, retorno
-	li x10, 0
-	jalr x0, x1, 0
-retorno:
-	li x10, 1
-	jalr x0, x1, 0
+	mv a5,a1
+	mv a6,a4
+	jal x1,multiplica
+	lw s3,0(sp)
+	addi sp,sp,4
+	mv a5,a2
+	mv a6,a3
+	jal x1,multiplica
+	lw s4,0(sp)
+	addi sp,sp,4
+	li a5,-1
+	add s3,s3,s4
+	add s3,s3,a5
+	bgez s3,if1
+	li a0,0
+	jalr x0,x3,0
+if1:
+	li a0,1	
+	jalr x0,x3,0
 
 multiplica:
-	lw t0, 0(x2)
-	lw t1, 4(x2)
-	li t2, 0
-	bgtz t1, for
-	neg t1,t1
-	neg t0, t0
-
-for:
-	add t2, t0, t2
-	addi t1, t1, -1
-	bgtz t1, for
-
-	addi x2, x2, -4
-	sw t2, 0(x2)
-	jalr x0, x1, 0
-
+	addi sp,sp,-12
+	mv t1,a5
+	sw t1,4(sp)
+	mv t2,a6
+	sw t2,0(sp)
+	li t3,0
+	bgez t2,loop
+loop1:
+	neg t2,t2
+	add t3,t3,t1
+	addi t2,t2,-1
+	bgtz t2,loop1
+	neg t3,t3
+	sw t3,8(sp)
+	
+	addi sp,sp,8
+	ret
+loop:
+	add t3,t3,t1
+	addi t2,t2,-1
+	bgtz t2,loop
+	sw t3,8(sp)
+	
+	addi sp,sp,8
+	ret
 ```
 
 :::
