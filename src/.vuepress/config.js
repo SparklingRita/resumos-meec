@@ -49,7 +49,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['0001-RN','0004-Comp', ],
+          children: ['0001-RN','0004-Comp','0005-PerifericosInterrupts','0006-IntroAProcessador' ],
         },
         {
           title: '👨‍💻 Laboratórios',
