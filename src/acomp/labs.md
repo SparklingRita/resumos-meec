@@ -187,7 +187,7 @@ b:	.word 0
 c:	.word 1
 
 	.text
-#x14 = w1; x15 = w2; x16 = b; x3 =
+#x14 = w1; x15 = w2; x16 = b; x3 = a
 
 
 rede_neuronal_xor:
@@ -282,13 +282,7 @@ ecall
 ::: details Resolução
 
 ```asm6502
-#--------------------------------------------------------------------------------------------------+
-# Laboratory 2|Calculate the truth table of the expression (a XOR b) and (a or c).                 |
-#             |                                                                                    |
-#--------------------------------------------------------------------------------------------------+
-# Author: Joao Barreiros C. Rodrigues (Joao-Ex-Machina), Martim Rendeiro Bento (G05B3)             |
-# Date: 14 April 2021                                                                              |
-#-------------------------------------------------------------------------------------------------*/
+
     .data
 
 a:    .word 0 #LSB
