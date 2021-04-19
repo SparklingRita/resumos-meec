@@ -59,7 +59,7 @@ module.exports = {
         {
           title: '👨‍💻 Problemas',
           collapsable: false,
-          children: ['0002-PB2','0003-PB3'],
+          children: ['0002-PB2','0003-PB3','0007-PB4'],
         },
       ],
       '/cdi-ii/': [
