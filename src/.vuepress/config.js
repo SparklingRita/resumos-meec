@@ -108,7 +108,9 @@ module.exports = {
             '0002-leisnewton',
             '0003-simetrias-leis-conservacao',
             '0004-campo-gravitico',
-            '0005-momento-linear'
+            '0005-momento-linear',
+            '0006-mov-sistemas-particulas',
+            '0007-momento-angular'
           ],
         },
         {
