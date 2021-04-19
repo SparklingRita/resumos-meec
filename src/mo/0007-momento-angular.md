@@ -12,4 +12,5 @@ Como $v=\omega r$,
 
 $$\overrightarrow{L}=(m_1r_1^2+m_2r_2^2)\omega \overrightarrow{e}_z$$
 
+Sendo I, o momento de inércia temos:  
 $I=m_1r_1^2 + m_2r_2^2 \implies \overrightarrow{L}=I\overrightarrow{\omega}$
