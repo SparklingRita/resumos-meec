@@ -7,4 +7,4 @@
   - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EWwDwKiLdQNEjPSHT6DWJBMBWW2YarZZUPHkj3xzbgCKpg?e=vrBE3W)
 
  - [Ficha 7](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/ETaD8Gs-5DxHlHfFi5G_pT0BAxJz38MLY8U_j6VzuOgJLQ?e=geVY0f)
-  - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EbJRQaxC9rFJhmZP4SxwYz0BF3Wjtuu47jvtAUhk3sj0ew?e=TPAOon)
+    - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EbJRQaxC9rFJhmZP4SxwYz0BF3Wjtuu47jvtAUhk3sj0ew?e=TPAOon)
