@@ -49,7 +49,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['0001-RN','0004-Comp', ],
+          children: ['0001-RN','0004-Comp','0005-PerifericosInterrupts','0006-IntroAProcessador' ],
         },
         {
           title: '👨‍💻 Laboratórios',
@@ -59,7 +59,7 @@ module.exports = {
         {
           title: '👨‍💻 Problemas',
           collapsable: false,
-          children: ['0002-PB2','0003-PB3'],
+          children: ['0002-PB2','0003-PB3','0007-PB4'],
         },
       ],
       '/cdi-ii/': [
@@ -108,7 +108,9 @@ module.exports = {
             '0002-leisnewton',
             '0003-simetrias-leis-conservacao',
             '0004-campo-gravitico',
-            '0005-momento-linear'
+            '0005-momento-linear',
+            '0006-mov-sistemas-particulas',
+            '0007-momento-angular'
           ],
         },
         {
