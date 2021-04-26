@@ -40,7 +40,13 @@ $W_{AB}=\Delta E_c$
 
 ## Graus de liberdade e Coordenadas Generalizadas
 
-Graus de Liberdade de um sistema correponde ao número mínimo de variáveis independentes necessárias para a descrição do sistema.
+Graus de Liberdade de um sistema correponde ao número mínimo de variáveis independentes necessárias para a descrição do sistema.d
+
+A equações de Euler-Lagrange podem ser escritas em função das variáveis generalizadas, **q_i**, correspondentes aos graus de liberdade do sistema.
+
+$$
+\frac{\partial L}{\partial q_i} - \frac{d}{dt}(\frac{\partial L}{\partial q_i}) = 0
+$$
 
 Por exemplo, no caso do pêndulo gravítico plano, as variáveis $x$ e $y$ não são independentes uma bez que a trajetória (circular) do pêndulo permite conhecer $x$ para um dado $y$ e vice-versa. Neste caso, utiliza-se apenas uma variável $(\theta)$ que define a posição do pêndulo. Diz-se então que o sistema tem apenas **um** grau de liberdade.
 
@@ -49,3 +55,31 @@ Por exemplo, no caso do pêndulo gravítico plano, as variáveis $x$ e $y$ não 
 A partir desta imagem, de um pêndulo gravítico, podemos deduzir que:
 
 $$\begin{cases} x = l \sin \theta \\ y = l \cos \theta \end{cases} \implies \begin{cases} \dot x = l \ \dot \theta \cos \theta \\ \dot y = -l \ \dot \theta \sin \theta \end{cases}$$
+
+## Forças de atrito
+
+Como as forças de atrito têm sempre o sentido contrário ao da velocidade, o trabalho das forças de atrito é sempre negativo.
+
+$$
+\overrightarrow{F_\alpha} = -K_\alpha |\overrightarrow{v}^\alpha| \overrightarrow{e_v}
+$$
+
+- **Atrito sólido - sólida**: Quando $\alpha = 0$
+
+$$
+\overrightarrow{F_0} = - K_0 \overrightarrow{e_v}, K_0 = \mu |\overrightarrow{P}|
+$$
+
+- **Atrito sólido - liquido (fluidos)**: Quando $\alpha = 1$
+
+$$
+\overrightarrow{F_\alpha} = - K_1 |\overrightarrow{v}| \overrightarrow{e_v}
+$$
+
+- **Atrito sólido - fluido (alta velocidade)**: Quando $\alpha = 2$
+
+$$
+\overrightarrow{F_\alpha} = - K_2 |\overrightarrow{v}|^2 \overrightarrow{e_v}
+$$
+
+[Revisões 12 ano - Fluidos](https://drive.google.com/file/d/1Lraa6zYGGR1W2YVYLTMXLO-NQXi6NPnM/view?usp=sharing)
