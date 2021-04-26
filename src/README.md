@@ -11,8 +11,6 @@ Bem vindos ao site comunitário de resumos de MEEC.
 Criado por um grupo de alunos gostosos e baseado
 no site de LEIC-A.
 
-## Links Uteis
-
 ## Contribuidores 💛
 
 - [João Gonçalves](https://github.com/SparklingRita/resumos-meec/commits?author=eusouojoao)
@@ -22,6 +20,7 @@ no site de LEIC-A.
 - [Rafaela Oliveira](https://github.com/SparklingRita/resumos-meec/commits?author=rafaelacorreiaoliveira)
 - [Rita Mendes](https://github.com/SparklingRita/resumos-meec/commits?author=SparklingRita)
 - [Rodrigo Coimbra](https://github.com/SparklingRita/resumos-meec/commits?author=RodsCoimbra)
+- [Rui Oliveira](https://github.com/SparklingRita/resumos-meec/commits?author=rui-star)
 - [Tomás Martins](https://github.com/SparklingRita/resumos-meec/commits?author=tomasmartins77)
 
 ## Como Contribuir
