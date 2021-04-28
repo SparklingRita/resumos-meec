@@ -49,7 +49,7 @@ Por exemplo: Arame ou Anel (Coisas com uma massa certa por unidade de compriment
 
 $$I = \int R^2 dm = \int R^2 \mu dr$$
 
-::: tip Por exemplo:
+::: details Por exemplo:
 
 Rotação de um anel em torno de um eixo perpendicular que passe pelo centro do mesmo. O anel tem 1 eixo principal de inércia vertical, mas também tem eixos horizontais de inércia infinitos.
 
@@ -65,7 +65,7 @@ $$I = \iint R^2 dm = \iint R^2 \sigma ds$$
 
 em que $\sigma$ é a densidade superficial.
 
-::: tip Por exemplo:
+::: details Por exemplo:
 
 Rotação de um cilindro oco homogéneo de espessura desprezável em torno do eixo de simetria cilindrica.
 
@@ -88,7 +88,7 @@ $$\iiint R^2 dm = \iiint R^2 \rho dV$$
 
 em que $\rho$ é a densidade
 
-::: tip Por exemplo:
+::: details Por exemplo:
 
 Rotação de um cilindro maciço homogéneo em torno de eixo de simetria cilindrica. (Cilindro totalmente fechado)
 
@@ -101,7 +101,7 @@ $$I = \frac {MR^2}{2}$$
 
 :::
 
-::: tip Outros exemplos
+::: details Outros exemplos
 
 - Rotação de uma barra homogéneo de secção desprezável em torno do eixo perpendicular que passe pelo centro de massa.
 
