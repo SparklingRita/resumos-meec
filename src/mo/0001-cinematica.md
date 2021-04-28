@@ -6,7 +6,7 @@ A cinemática é o ramo da física que estuda e descreve o movimento dos corpos,
 
 Rapidez com que é realizado o deslocamento de um corpo.
 
-$\overrightarrow{\varDelta r} = \overrightarrow{r_2}-\overrightarrow{r_1} = \varDelta x  \overrightarrow{e_x}+\varDelta y  \overrightarrow{e_y}+\varDelta z  \overrightarrow{e_z}$
+$$\overrightarrow{\varDelta r} = \overrightarrow{r_2}-\overrightarrow{r_1} = \varDelta x  \overrightarrow{e_x}+\varDelta y  \overrightarrow{e_y}+\varDelta z  \overrightarrow{e_z}$$
 
 Substituindo pela fórmula do deslocamento temos:
 
@@ -24,7 +24,7 @@ $$\overrightarrow{v}(t)=(\frac {dx}{dt})\overrightarrow{e_x}+(\frac {dy}{dt})\ov
 
 ## Aceleração Média
 
-$\overrightarrow{v}(t)=\overrightarrow{v_2}-\overrightarrow{v_1}=\varDelta v_x \overrightarrow{e_x}+\varDelta v_y \overrightarrow{e_y}+\varDelta v_z \overrightarrow{e_z}$
+$$\overrightarrow{v}(t)=\overrightarrow{v_2}-\overrightarrow{v_1}=\varDelta v_x \overrightarrow{e_x}+\varDelta v_y \overrightarrow{e_y}+\varDelta v_z \overrightarrow{e_z}$$
 
 Substituindo pela fórmula da velocidade temos:
 
@@ -99,13 +99,13 @@ A aceleração pode ser separada em duas componentes:
 
 Assim, temos que:
 
-$\displaystyle \overrightarrow{a} = R \ddot \theta \cdot \overrightarrow{e_\theta} - R (\dot \theta)^2 \cdot \overrightarrow{e_r}$
+$$\displaystyle \overrightarrow{a} = R \ddot \theta \cdot \overrightarrow{e_\theta} - R (\dot \theta)^2 \cdot \overrightarrow{e_r}$$
 
 ## Movimento Circular Uniforme
 
 No caso particular do movimento circular uniforme temos:
 
-$\displaystyle \omega = \frac {2 \pi}{T}$
+$\displaystyle \omega = \frac {2 \pi}{T} = \text{Constante} \implies \text{Aceleração angular é nula}$
 
 $\displaystyle v=\omega R$
 
