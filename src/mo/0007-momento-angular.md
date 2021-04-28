@@ -49,11 +49,13 @@ Por exemplo: Arame ou Anel (Coisas com uma massa certa por unidade de compriment
 
 $$I = \int R^2 dm = \int R^2 \mu dr$$
 
-#### Por exemplo:
+::: details Por exemplo:
 
 Rotação de um anel em torno de um eixo perpendicular que passe pelo centro do mesmo. O anel tem 1 eixo principal de inércia vertical, mas também tem eixos horizontais de inércia infinitos.
 
 $$I = \int R^2 dm = \int R^2 \mu dl = \mu R^2 \int _{0}^{2\pi} d\theta = \mu R^2 (2 \pi R) = MR^2$$
+
+:::
 
 ### Momento de inércia no caso de um corpo contínuo de espessura desprezável
 
@@ -63,7 +65,7 @@ $$I = \iint R^2 dm = \iint R^2 \sigma ds$$
 
 em que $\sigma$ é a densidade superficial.
 
-#### Por exemplo:
+::: details Por exemplo:
 
 Rotação de um cilindro oco homogéneo de espessura desprezável em torno do eixo de simetria cilindrica.
 
@@ -78,13 +80,15 @@ R^2\int _{0}^{h}\int _{0}^{2\pi} \sigma R d\theta dz =
 \sigma R^2(2 \pi Rh)
 $$
 
+:::
+
 ### Momento de inércia no caso de um corpo contínuo em 3D
 
 $$\iiint R^2 dm = \iiint R^2 \rho dV$$
 
 em que $\rho$ é a densidade
 
-#### Por exemplo:
+::: details Por exemplo:
 
 Rotação de um cilindro maciço homogéneo em torno de eixo de simetria cilindrica. (Cilindro totalmente fechado)
 
@@ -95,7 +99,9 @@ $$\rho h \frac{R^4}{4} 2\pi = \frac {R^2}{2}(\pi R^2 h \rho)$$
 
 $$I = \frac {MR^2}{2}$$
 
-#### Outros exemplos
+:::
+
+::: details Outros exemplos
 
 - Rotação de uma barra homogéneo de secção desprezável em torno do eixo perpendicular que passe pelo centro de massa.
 
@@ -117,6 +123,8 @@ $$\rho \pi \frac{8}{15} R^5 =$$
 $$\rho \pi \frac{2}{5} \frac{4}{3} R^3 R^2$$
 
 $$I = \frac{2}{5} M R^2$$
+
+:::
 
 ## Tensor de Inércia
 
