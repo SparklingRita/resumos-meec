@@ -64,7 +64,7 @@ $$
 \overrightarrow{F_\alpha} = -K_\alpha |\overrightarrow{v}^\alpha| \overrightarrow{e_v}
 $$
 
-- **Atrito sólido - sólida**: Quando $\alpha = 0$
+- **Atrito sólido - sólido**: Quando $\alpha = 0$
 
 $$
 \overrightarrow{F_0} = - K_0 \overrightarrow{e_v}, K_0 = \mu |\overrightarrow{P}|
@@ -83,3 +83,29 @@ $$
 $$
 
 [Revisões 12 ano - Fluidos](https://drive.google.com/file/d/1Lraa6zYGGR1W2YVYLTMXLO-NQXi6NPnM/view?usp=sharing)
+
+## Energia Mecânica e Potência
+
+A energia mecânica é dada pela soma da energia potencial com a energia cinética:
+$E = T + U$
+
+Na presença de forças exteriores $\frac {d}{dt} (T + U) = \frac {dE}{dt} = 0$ $\implies$ Lei da conservação da energia mecânica.
+
+Assim, na presença de forças exteriores, a energia mecânica do sistema não se conserva:
+
+$$
+\frac {dE}{dt} = \sum F_i^{ext} r_i
+$$
+
+::: tip Se:
+
+- A resultante das forças exteriores tem o mesmo sentido que o movimento, as forças exteriores fornecem energia ao sistema:
+  $\frac {dE}{dt} > 0$
+
+- A resultante das forças exteriores tem o sentido oposto ao do movimento, o sistema perda energia para o exterior (ex: Forças de atrito):
+  $\frac {dE}{dt} < 0$
+
+- A resultante das forças é perpendicular ao movimento, força normal no caso do pendulo.
+  $\frac {dE}{dt} = 0$
+
+:::

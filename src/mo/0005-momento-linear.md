@@ -18,15 +18,37 @@ O efeito das forças internas não contribui para a alteração do momento linea
 
 Quando há conservação do momento linear temos que:
 
-$\overrightarrow{p_i} = \overrightarrow{p_f} \implies \Delta \overrightarrow{p}=0$
+$$\overrightarrow{p_i} = \overrightarrow{p_f} \implies \Delta \overrightarrow{p}=0$$
 
 ## Choque de Partículas
 
 - Choque Elástico Frontal
 
-  - As partículas antes e depois do choque são exatamente as mesmas, logo: $m_A=m'_A \text{ e } m_B=m'_B$
+  - As partículas antes e depois do choque são exatamente as mesmas, logo:
 
-  - Há conservação do momento linear e conservação de energia
+    $$\overrightarrow{p_i} = \overrightarrow{p_f}$$
+    $$\overrightarrow{p_A} + \overrightarrow{p_B} = \overrightarrow{p_A'} + \overrightarrow{p_B'}$$
+    $$m_A \overrightarrow{v_A} + m_B \overrightarrow{v_B} =  m_A \overrightarrow{v_A'} + m_B \overrightarrow{v_B'}$$
+    $$\text{continuando a desenvolver vamos chegar à expressão:}$$
+    $$v'_A = \frac {[1 - \frac {m_B}{m_A}]}{[1 + \frac {m_B}{m_A}]} v_A$$
+
+  ::: details Casos Particulares:
+
+  - A particula B, inicialmente em repouso muito mais leve.
+    $\frac {m_B}{m_A} \to 0$
+    $v'_A = v_A$
+
+  - A particula A fica em repouso, e a particula B adquire a velocidade da particula A.
+    $\frac {m_B}{m_A} = 1$
+    $v'_A = 0$
+
+  - Choque com uma parede.
+    $\frac {m_B}{m_A} \to \infty$
+    $v'_A = - v_A$
+
+  :::
+
+  - Há conservação do momento linear e conservação de energia cinética.
 
 - Choque Inelástico
 
@@ -34,4 +56,4 @@ $\overrightarrow{p_i} = \overrightarrow{p_f} \implies \Delta \overrightarrow{p}=
 
   - Há conservação do momento linear, mas há dissipação de energia, pelo que: $Ec_f<Ec_i$
 
-  - Após a colisão, os corpos ficam deformados
+  - Após a colisão, os corpos ficam deformados.
