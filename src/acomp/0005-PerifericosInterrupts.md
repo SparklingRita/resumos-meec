@@ -1,6 +1,6 @@
 # Periféricos e Interrupções
 
-Um periférico é um conjunto de registos, preiféricos diferentes têm registos diferentes. Os registos do periférico são diferentes dos registos do processador.
+Um periférico é um conjunto de registos, periféricos diferentes têm registos diferentes. Os registos do periférico são diferentes dos registos do processador.
 
 ![single precision](<./img/ACOMP_IntroducaoArquiteturaProcessador(1).jpg>)
 
