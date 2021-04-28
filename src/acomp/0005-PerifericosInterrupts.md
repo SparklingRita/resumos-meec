@@ -1,21 +1,23 @@
 # Periféricos e Interrupções
 
-Um periférico é um conjunto de registos, periféricos diferentes têm registos diferentes. Os registos do periférico são diferentes dos registos do processador.
+Um {pink}(periférico) é um conjunto de registos, periféricos diferentes têm registos diferentes. Os registos do periférico são diferentes dos registos do processador.
 
 ![single precision](<./img/ACOMP_IntroducaoArquiteturaProcessador(1).jpg>)
 
 Os registos dos periféricos são mapeados numa gama de endereços específica.
 Para aceder aos dados na memória utilizamos as instruções convencionais: **lw** e **sw**, mas para realizar a leitura/escrita de dados no periféricos existem instruções específicas:
 
-    iolw Xn, xpto -> leitura do registo com o endereço xpto
+```asm6502
+iolw Xn, xpto -> leitura do registo com o endereço xpto
 
-    iosw Xn, xpto -> escrita no registo
+iosw Xn, xpto -> escrita no registo
+```
 
 ::: details Saber para o teste
 
-- **Port-Mapped I/O**: Barramentos independentes de acesso à memória e aos periféricos
+- {pink}(**Port-Mapped I/O**): Barramentos independentes de acesso à memória e aos periféricos
 
-- **Memory-Mapped I/O**: Barramento único para acesso à memória e aos periféricos.
+- {orange}(**Memory-Mapped I/O**): Barramento único para acesso à memória e aos periféricos.
 
 :::
 
