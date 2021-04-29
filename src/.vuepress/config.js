@@ -54,7 +54,7 @@ module.exports = {
         {
           title: '👨‍💻 Laboratórios',
           collapsable: false,
-          children: ['0008-labs'],
+          children: ['0008-labs', '0009-Lab3'],
         },
         {
           title: '👨‍💻 Problemas',
@@ -117,6 +117,11 @@ module.exports = {
           title: '✏️ Exercícios',
           collapsable: false,
           children: [],
+        },
+        {
+          title: '✏️ Testes e Exames de Anos Anteriores',
+          collapsable: false,
+          children: ['0008-T&E', ],
         },
         {
           title: '📃 Cheat Sheets',
