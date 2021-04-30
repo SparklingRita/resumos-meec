@@ -11,3 +11,6 @@
 
  - [Ficha 8](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EX27xDDYe8FBoRmEbYhyjrEB34PByl8zXU9OY6ffZoYXVw?e=vlVlN9)
     - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EbQ46246OpJIvw5hOqQyHqoBUGULgfJJl2V2L7SHAYp_FA?e=jaT0Vu)
+
+ - [Ficha 8 Complementar](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EcJSPeqjnE5Ck5dJ2p076AEBjzyI2TApAzIfUR-7ZdEZdA?e=owOOJl)
+    - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EYt-EPF-9xdOtbwWK0jXdGsBb90N1YdnNlU4Ko4r1-oYQQ?e=1y4Wfc)
