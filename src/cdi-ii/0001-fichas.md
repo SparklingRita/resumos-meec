@@ -14,3 +14,6 @@
 
 - [Ficha 8 Complementar](https://drive.google.com/file/d/10ZR6UVnHr2pWUH0GMfIsDq4XrKPpXJHF/view?usp=sharing)
   - [Resolução sqrt(João)](https://drive.google.com/file/d/1cXNqNOih8HjAe94aY-cEplmPybX6QEbG/view?usp=sharing)
+
+- [Ficha 9](https://drive.google.com/file/d/1vnHA98g7VwHGtzVg4GQv6hD2axE0Taxs/view?usp=sharing)
+	- [Resolução sqrt(João)](https://drive.google.com/file/d/1W_oUgRNlpZxbhWxptPhzNao8wMmM3_Xf/view?usp=sharing)
