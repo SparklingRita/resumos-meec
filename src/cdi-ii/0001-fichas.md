@@ -3,11 +3,17 @@
 - [Ficha 5](https://drive.google.com/file/d/1aUg7X_2sv92NSiNExgGt8jI0bBp3h0LR/view)
   - [Resolução by Rita Mendes](https://drive.google.com/file/d/1xBqyxfNInPHmeQc_O91DX48hMOxTwcwp/view?usp=sharing)
 
-- [Ficha 6 Extra](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EVFYUTtlJ7NFm3SUZ57y8oMB2WYi8DYcr1QU9PioDWXo3Q?e=AtuU3P)
-  - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EWwDwKiLdQNEjPSHT6DWJBMBWW2YarZZUPHkj3xzbgCKpg?e=vrBE3W)
+- [Ficha 6 Extra](https://drive.google.com/file/d/1aC-fijsmY1DeD2xsmK6-f3qfjfQmh_QI/view?usp=sharing)
+  - [Resolução sqrt(João)](https://drive.google.com/file/d/1Y2pfe5ecq2htzW49O4y00tk52AjBcaW4/view?usp=sharing)
 
- - [Ficha 7](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/ETaD8Gs-5DxHlHfFi5G_pT0BAxJz38MLY8U_j6VzuOgJLQ?e=geVY0f)
-    - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EbJRQaxC9rFJhmZP4SxwYz0BF3Wjtuu47jvtAUhk3sj0ew?e=TPAOon)
+- [Ficha 7](https://drive.google.com/file/d/1TJk23kMqfs2RvXZPHeBrOepkmUnjHpAN/view?usp=sharing)
+  - [Resolução sqrt(João)](https://drive.google.com/file/d/1SfHgyThd6eAri30EYjvkgCDyvRKzOnBS/view?usp=sharing)
 
- - [Ficha 8](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EX27xDDYe8FBoRmEbYhyjrEB34PByl8zXU9OY6ffZoYXVw?e=vlVlN9)
-    - [Resolução sqrt(João)](https://ulisboa-my.sharepoint.com/:b:/g/personal/ist199995_tecnico_ulisboa_pt/EbQ46246OpJIvw5hOqQyHqoBUGULgfJJl2V2L7SHAYp_FA?e=jaT0Vu)
+- [Ficha 8](https://drive.google.com/file/d/1V0sUWSSE_r5LJlDcHxoT1VbWLkcKzSSj/view?usp=sharing)
+  - [Resolução sqrt(João)](https://drive.google.com/file/d/1T3eB0i-WUpX-qMAG_KeJfbFgR7wZjqML/view?usp=sharing)
+
+- [Ficha 8 Complementar](https://drive.google.com/file/d/10ZR6UVnHr2pWUH0GMfIsDq4XrKPpXJHF/view?usp=sharing)
+  - [Resolução sqrt(João)](https://drive.google.com/file/d/1cXNqNOih8HjAe94aY-cEplmPybX6QEbG/view?usp=sharing)
+
+- [Ficha 9](https://drive.google.com/file/d/1vnHA98g7VwHGtzVg4GQv6hD2axE0Taxs/view?usp=sharing)
+	- [Resolução sqrt(João)](https://drive.google.com/file/d/1W_oUgRNlpZxbhWxptPhzNao8wMmM3_Xf/view?usp=sharing)
