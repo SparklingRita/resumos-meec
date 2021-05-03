@@ -90,7 +90,7 @@ Como, pela primeira imagem, temos que `CSR[csr] ← CSR[csr] | xa` e o ID do CSR
 SIE = SIE | x10  ⇔  SIE = 000F 0000h
 ```
 
-Olhando para a imagem do enunciado, temos que SIP = 0004 00000h e que SSTATUS = 0000 0002h = (...) 00{red}(1)0 , este bit equivale ao GIE $\implies$ GIE = 1.
+Olhando para a imagem do enunciado, temos que SIP = 0004 0000h e que SSTATUS = 0000 0002h = (...) 00{red}(1)0 , este bit equivale ao GIE $\implies$ GIE = 1.
 
 Assim, podemos concluir que há uma interrupção pendente associada ao periférico/excepção 18 (isto porque se convertermos o SIP para binário temos 0{red}(1)00 0000 0000 0000 0000, ou seja, o 18º bit está a 1) e, por isso, chama-se a rotina de interrupções.
 
