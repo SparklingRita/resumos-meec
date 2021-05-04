@@ -99,4 +99,4 @@ Assim, podemos concluir que há uma interrupção pendente associada ao perifér
 - O SEPC correponde ao endereço da instrução a seguir ao _csrrs_, como o PC se encontrava em 0000 014Ch, somando 2 instruções ficamos com SEPC = 158h.
 - O PC aponta para a 1ª instrução da rotina de interrupções que está guardado no STVEC: PC $\gets$ STVEC $\implies$ PC = 000A 0000h (pela imagem do enunciado).
 - O SPIE corresponde ao valor lógico de GIE _antes_ de atender a interrupção, $\implies$ SPIE = 1
-- Pelo Reference Card, podemos concluir que o {green}(5º) e o {blue}(1º) bits do SSTATUS correpondem ao SPIE e ao GIE, respectivamente. Assim, temos que SPIE = (...)00{green}(1)0 00{blue}(1)0 = 0000 0022h.
+- Pelo Reference Card, podemos concluir que o {green}(5º) e o {blue}(1º) bits do SSTATUS correpondem ao SPIE e ao GIE, respectivamente. Assim, temos que SPIE = (...)00{green}(1)0 00{blue}(0)0 = 0000 0020h.
