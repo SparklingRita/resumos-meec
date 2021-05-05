@@ -87,7 +87,7 @@ Indo ao Reference Card, podemos tirar que _csrrs_ corresponde a um _CSR Read and
 Como, pela primeira imagem, temos que `CSR[csr] ← CSR[csr] | xa` e o ID do CSR corresponde a um SIE, substituindo temos:
 
 ```js
-SIE = SIE | x10  ⇔  SIE = 000F 0000h
+SIE = SIE | x10  ⇔  SIE = 000F FFFFh
 ```
 
 Olhando para a imagem do enunciado, temos que SIP = 0004 0000h e que SSTATUS = 0000 0002h = (...) 00{red}(1)0 , este bit equivale ao GIE $\implies$ GIE = 1.
