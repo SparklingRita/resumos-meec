@@ -80,7 +80,7 @@ $$
 3. Definimos $F(x,y,z) = \begin{cases} F_1(x,f(x),g(x)) = 0 \\ F_2(x,f(x),g(y)) = 0 \end{cases}$
 4. Se quisermos as derivadas em ordem a x como no exemplo anterior então:
 
-$$ \frac{\partial F(a,b,c)}{\partial x} = \begin{cases} \frac{\partial F_1}{\partial x}(a,b,c) + \frac{\partial F_1}{\partial y}(a,b,c) \frac{\partial f}{\partial x}(a) + \frac{\partial F_1}{\partial z}(a,b,c) \frac{\partial g}{\partial x}(a) = 0 \\
+$$ \frac{\partial F}{\partial x}(a,b,c) = \begin{cases} \frac{\partial F_1}{\partial x}(a,b,c) + \frac{\partial F_1}{\partial y}(a,b,c) \frac{\partial f}{\partial x}(a) + \frac{\partial F_1}{\partial z}(a,b,c) \frac{\partial g}{\partial x}(a) = 0 \\
 \frac{\partial F_2}{\partial x}(a,b,c) + \frac{\partial F_2}{\partial y}(a,b,c) \frac{\partial f}{\partial x}(a) + \frac{\partial F_2}{\partial z}(a,b,c) \frac{\partial g}{\partial x}(a) = 0\end{cases} $$
 
 5. Massajamos $\frac{\partial F}{\partial x}(a,b,c)$ de modo a acharmos $f'(a) e g'(a)$
