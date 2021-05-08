@@ -77,7 +77,7 @@ $$
     - Neste caso conseguimos escrever 2 incognitas em função da terceira, como por exemplo $y = f(x)$ e $z = g(x)$.
 2. Calculamos $DF(a,b,c)$, e verificamos se $\vert DF_{yz}(a,b,c) \vert \ne 0$
     - (Tal como no exemplo acima, se o $\vert DF_{yz}(a,b,c) \vert = 0$ não conseguimos escrever y e z como funções de x)
-3. Definimos $F(x,y,z) = \begin{cases} F_1(x,f(x),g(x)) = 0 \\ F_2(x,f(x),g(y)) = 0 \end{cases}$
+3. Definimos $F(x,y,z) = \begin{cases} F_1(x,f(x),g(x)) = 0 \\ F_2(x,f(x),g(x)) = 0 \end{cases}$
 4. Se quisermos as derivadas em ordem a x como no exemplo anterior então:
 
 $$ \frac{\partial F}{\partial x}(a,b,c) = \begin{cases} \frac{\partial F_1}{\partial x}(a,b,c) + \frac{\partial F_1}{\partial y}(a,b,c) \frac{\partial f}{\partial x}(a) + \frac{\partial F_1}{\partial z}(a,b,c) \frac{\partial g}{\partial x}(a) = 0 \\
