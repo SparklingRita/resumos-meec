@@ -55,7 +55,7 @@ Visto que $G^{-1}$ é de classe $C^1$, a função $f$ também será.
 ---
 
 ### Calcular as derivadas implícitas 
-#### Exemplo em que $F: R^3 \to \R$ e queremos calcular $\frac{\partial z}{\partial x}$.
+#### Exemplo em que $F: \R^3 \to \R$ e queremos calcular $\frac{\partial z}{\partial x}$.
 1. Definimos $F(x,y,z) = 0$ 
 2. Calculamos $DF(a,b,c)$, e verificamos se $DF_z(a,b,c) \ne 0$
     - (Se $\frac{\partial F}{\partial z}$ = 0 então não podemos escrever *z* como função implícita de x e de y, como pelo Teorema F. Imp.)
