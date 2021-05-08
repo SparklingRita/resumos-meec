@@ -18,5 +18,5 @@
 - [Ficha 9](https://drive.google.com/file/d/1vnHA98g7VwHGtzVg4GQv6hD2axE0Taxs/view?usp=sharing)
 	- [Resolução sqrt(João)](https://drive.google.com/file/d/1W_oUgRNlpZxbhWxptPhzNao8wMmM3_Xf/view?usp=sharing)
 
-- [Ficha 10](https://drive.google.com/file/d/1EF0iRR_bognKUbt7sad7Ubp0GdCzS-6Q/view?usp=sharing) ***WORK IN PROGRESS***
-	- [Resolução sqrt(João)](https://drive.google.com/file/d/1zFnJMGs85yNw_5KQSISU3zIxRJaA5OhY/view?usp=sharing)
+- [Ficha 10](https://drive.google.com/file/d/1EF0iRR_bognKUbt7sad7Ubp0GdCzS-6Q/view?usp=sharing)
+	- [Resolução sqrt(João)](https://drive.google.com/file/d/1eKNifVN_iWkey0-UaCdC4OstaFfJuVy3/view?usp=sharing)
