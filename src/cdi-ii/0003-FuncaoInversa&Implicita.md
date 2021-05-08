@@ -55,14 +55,14 @@ Visto que $G^{-1}$ é de classe $C^1$, a função $f$ também será.
 ---
 
 ### Calcular as derivadas implícitas 
-#### Exemplo em que $F: R^3 \to \R$ e queremos calcular $\frac{\partial z}{\partial x}$.
+#### Exemplo em que $F: \R^3 \to \R$ e queremos calcular $\frac{\partial z}{\partial x}$.
 1. Definimos $F(x,y,z) = 0$ 
 2. Calculamos $DF(a,b,c)$, e verificamos se $DF_z(a,b,c) \ne 0$
     - (Se $\frac{\partial F}{\partial z}$ = 0 então não podemos escrever *z* como função implícita de x e de y, como pelo Teorema F. Imp.)
 3. Definimos $F$ como $F(x,y,f(x,y)) = 0$ (em que $z = f(x,y)$)
 4. Derivamos F em ordem a x e y (neste caso como só queremos $\frac{\partial z}{\partial x}$ podiamos só calcular a derivada de F em ordem a *x*, mas assim ficamos com o caso geral..)
 
-$$ x = \begin{cases}  \frac{\partial F}{\partial x}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial x}(a,b) = 0\\ \frac{\partial F}{\partial y}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial y}(a,b) = 0\end{cases}$$
+$$ \frac{\partial F}{\partial (x,y)}(a,b,c) = \begin{cases}  \frac{\partial F}{\partial x}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial x}(a,b) = 0\\ \frac{\partial F}{\partial y}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial y}(a,b) = 0\end{cases}$$
 
 5. Massajar a equação $\frac{\partial F}{\partial x}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial x}(a,b) = 0$
 
@@ -77,7 +77,7 @@ $$
     - Neste caso conseguimos escrever 2 incognitas em função da terceira, como por exemplo $y = f(x)$ e $z = g(x)$.
 2. Calculamos $DF(a,b,c)$, e verificamos se $\vert DF_{yz}(a,b,c) \vert \ne 0$
     - (Tal como no exemplo acima, se o $\vert DF_{yz}(a,b,c) \vert = 0$ não conseguimos escrever y e z como funções de x)
-3. Definimos $F(x,y,z) = \begin{cases} F_1(x,f(x),g(x)) = 0 \\ F_2(x,f(x),g(y)) = 0 \end{cases}$
+3. Definimos $F(x,y,z) = \begin{cases} F_1(x,f(x),g(x)) = 0 \\ F_2(x,f(x),g(x)) = 0 \end{cases}$
 4. Se quisermos as derivadas em ordem a x como no exemplo anterior então:
 
 $$ \frac{\partial F}{\partial x}(a,b,c) = \begin{cases} \frac{\partial F_1}{\partial x}(a,b,c) + \frac{\partial F_1}{\partial y}(a,b,c) \frac{\partial f}{\partial x}(a) + \frac{\partial F_1}{\partial z}(a,b,c) \frac{\partial g}{\partial x}(a) = 0 \\
