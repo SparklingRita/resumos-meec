@@ -85,7 +85,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['0001-intro', '0002-OeRH', '0003-microeconomia', '0004-IF'],
+          children: ['0001-intro', '0002-OeRH', '0003-microeconomia', '0004-IF', '0009-Cap5'],
         },
         {
           title: '✏️ Exercícios',
