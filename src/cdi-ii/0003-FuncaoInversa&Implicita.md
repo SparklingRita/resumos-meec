@@ -62,7 +62,7 @@ Visto que $G^{-1}$ é de classe $C^1$, a função $f$ também será.
 3. Definimos $F$ como $F(x,y,f(x,y)) = 0$ (em que $z = f(x,y)$)
 4. Derivamos F em ordem a x e y (neste caso como só queremos $\frac{\partial z}{\partial x}$ podiamos só calcular a derivada de F em ordem a *x*, mas assim ficamos com o caso geral..)
 
-$$ \frac{\partial F}{\partial (x,y)} = \begin{cases}  \frac{\partial F}{\partial x}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial x}(a,b) = 0\\ \frac{\partial F}{\partial y}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial y}(a,b) = 0\end{cases}$$
+$$ \frac{\partial F}{\partial (x,y)}(a,b,c) = \begin{cases}  \frac{\partial F}{\partial x}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial x}(a,b) = 0\\ \frac{\partial F}{\partial y}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial y}(a,b) = 0\end{cases}$$
 
 5. Massajar a equação $\frac{\partial F}{\partial x}(a,b,c) + \frac{\partial F}{\partial z}(a,b,c)\frac{\partial f}{\partial x}(a,b) = 0$
 
