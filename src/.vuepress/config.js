@@ -135,7 +135,7 @@ module.exports = {
           title: '📝 Conteúdo',
           collapsable: false,
           children: [
-            
+            '0001-Introdução','0002-structureC', 
           ],
         },
         {
