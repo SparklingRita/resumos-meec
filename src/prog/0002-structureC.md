@@ -65,7 +65,8 @@ Um identificador em C é um nome que permite identificar uma variável, uma fun�
 
 Um identificador deve começar por uma letra maiúscula ou minúscula, ou um ‘_’ seguido por letras, ‘_’ ou dígitos de 0 a 9.
 
-::: NOTA Não pode começar com um dígito. :::
+	NOTA 
+	Não pode começar com um dígito.
 
 ## Palavras Chave
 
@@ -570,7 +571,8 @@ int main()
 
 A utilização do caractere especial \ permite definir o que se designam por **escape sequences** que permitem: (1) alterar o significado especial de um caracter como “que deixa de ser interpretado como delimitador e passa a ser simplesmente o caractere “; (2) representar caracteres especiais como \n que significa mudança de linha.
 
-	::: NOTA \a Alarm or Beep
+	NOTA 
+	\a Alarm or Beep
 	\b Backspace
 	\f Form Feed
 	\n New Line
@@ -583,7 +585,7 @@ A utilização do caractere especial \ permite definir o que se designam por **e
 	\? Question Mark
 	\ooo octal number
 	\xhh hexadecimal number
-	\0 Null:::
+	\0 Null
 
 ```c
 #include <stdio.h>
