@@ -294,7 +294,9 @@ printf("count is %d\n", count)
 | ++ | Increment operator increases the integer value by one |
 |  -- | Decrement operator decreases the integer value by one |
 <br />
+
 ```c
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -320,6 +322,7 @@ int main()
 		printf("x = %d\n", x)
 		return 0
 }
+
 ```
 
 ## Operadores Relacionais
@@ -358,6 +361,7 @@ B = 13(10) = 0000 1101 (2)
 | >> | Binary Right Shift Operator. The left operands value is moved right by the number of bits specified by the right operand. |A >> 2 = 240, i.e., 0000 1111|
 
 ## Operadores de Atribuição
+
 | Operador | Descrição |
 | -------- | --------- |
 | = | Simple assignment operator. Assigns values from right side operands to left side operand. |
@@ -407,7 +411,9 @@ int main()
 | * | Pointer to a variable |
 | ? : | Conditional Expression |
 <br />
+
 ### Precedência de operadores
+
 | Nome | Operadores | Associatividade |
 | ---- | ---------- | --------------- |
 | Postfix | () []  ->  .  ++  -- | Left to right |
@@ -422,8 +428,8 @@ int main()
 | Bitwise OR | \| | Left to right|
 | Logical AND | && | Left to right |
 | Logical OR | \|\| | Left to right |
-|Conditional|?:|Right to left |
-|Assignment|=  +=  -=  *=  /=  %=  >>=  <<=  &=  ^=  \|=| Right to left |
+| Conditional | ?: | Right to left |
+| Assignment | =  +=  -=  *=  /=  %=  >>=  <<=  &=  ^=  \|= | Right to left |
 | Comma | , | Left to right |
 <br />
 ## I/O (Input/Output)
