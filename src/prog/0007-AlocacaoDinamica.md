@@ -26,10 +26,63 @@ A **alocação dinâmica** permite uma gestão mais eficiente da memória uma ve
 
 ## void *calloc(int num, int size);
 
+A função `calloc()` permite alocar dinamicamente um bloco de memória de n bytes, tal como o `malloc()` e retorna um apontador para esse bloco. Neste caso, `calloc()`, a memória é inicializada a zero.
+
+•O argumento sizecorresponde à dimensão em bytes de cada elemento a alocar.•O argumentonitemscorresponde ao número de elementos a alocar.•A função retorna um apontador para o bloco de memóriaou NULL, caso não consiga alocar a memória.
+
+![./img/img63.png](./img/img63.png)
+
 ## void free(void *address);
+
+A função `free()` permite libertar a memória previamente alocada pelas instruções `malloc()`, `calloc()` ou `realloc()`. A libertação de memória é fundamental para a utilização eficiente da alocação dinâmica.
+```c
+void free(void *ptr);
+```
+
+•O argumento ***ptr** é o apontador para o bloco de memória previamente alocado que se pretende desalocar. Caso seja um apontador para `null` não é realizada qualquer operação.
+    
+    NOTA
+    Se precisarmos de utilizar um apontador para percorrer o bloco de memória:
+    - Voltar a posicionar o apontador no início do bloco de memória;
+    - Utilizar um apontador auxiliar.
+
+![./img/img62.png](./img/img62.png)
 
 ## void *malloc(int num);
 
-A função `malloc()`
+A função `malloc()` permite alocar dinamicamente um bloco de memória de n bytes e retorna um apontador para esse bloco. 
+
+```c
+void *malloc(size_t size)
+```
+
+•O argumento sizecorresponde à dimensão do bloco de memória em bytes.
+
+•A função retorna um apontador para o bloco de memóriaou NULL, caso não consiga alocar a memória.
+
+•Dado que a função mallocretorna um apontador para voiddeve ser feita uma conversão de tipo para garantir a correctautilização do apontador para a zona de memória alocada.
+
+```c
+void *str;
+
+/* Initial memory allocation */
+str = (char *) malloc(15);
+```
+
+A validação do sucesso da operação de alocação dinâmica é fundamental para a correctaexecução do programa.
+
+![./img/img61.png](./img/img61.png)
 
 ## void *realloc(void *address, int newsize);
+
+A função `realloc()` permite reajustar a dimensão de um bloco previamente alocado com as funções `malloc()`, `calloc()` ou `realloc()`
+
+```c
+void *realloc(void *ptr, size_t size)
+```
+
+•O argumento **size** corresponde à dimensão do bloco de memória a alocar. Caso seja 0 e ptraponte para um bloco existente o bloco de memória é desalocado e retorna um apontador para NULL. 
+
+•O arg. ***ptr** é um apontador para um bloco de memória previamente alocado.
+
+•A função retorna um **apontador para o bloco de memória** ou **NULL**, caso não consiga alocar a memória.
