@@ -18,7 +18,7 @@ A utilização do comando size permite determinar o espaço ocupado pelo program
 
 A gestão de memória na execução de um programa deve ser feita de forma eficiente.
 • **Alocação Estática**: A reserva de espaço de memória por definição da dimensão das variáveis durante a fase de programação designa-se por alocação estática uma vez que não é alterada durante a fase de execução.
-• **Alocação Dinâmica:** A reserva de espaço de memória durante a execução do programa em função da execução designa-se por alocação dinâmica e requer a utilização de apontadores para a zona de memória alocada. 
+• **Alocação Dinâmica:** A reserva de espaço de memória durante a execução do programa em função da execução designa-se por alocação dinâmica e requer a utilização de apontadores para a zona de memória alocada.  
 
 A **alocação dinâmica** permite uma gestão mais eficiente da memória uma vez que  apenas se precisa de manter alocada a memória estritamente necessária e toda a  restante pode ser libertada.
 
@@ -86,3 +86,10 @@ void *realloc(void *ptr, size_t size)
 •O arg. ***ptr** é um apontador para um bloco de memória previamente alocado.
 
 •A função retorna um **apontador para o bloco de memória** ou **NULL**, caso não consiga alocar a memória.
+
+## Verificação/Validação: Valgrind
+
+A verificação da correcta utilização da alocação dinâmica pode ser feita com recurso à aplicação valgrind (http://valgrind.org/) instalada na máquina virtual disponibilizada para realização dos laboratórios e projecto.
+A documentação pode ser consultada em: http://valgrind.org/docs/manual/index.html .
+
+![./img/img64.png](./img/img64.png)
