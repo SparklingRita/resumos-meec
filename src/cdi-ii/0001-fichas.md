@@ -20,3 +20,6 @@
 
 - [Ficha 10](https://drive.google.com/file/d/1EF0iRR_bognKUbt7sad7Ubp0GdCzS-6Q/view?usp=sharing)
 	- [Resolução sqrt(João)](https://drive.google.com/file/d/1eKNifVN_iWkey0-UaCdC4OstaFfJuVy3/view?usp=sharing)
+
+- [Ficha 11](https://drive.google.com/file/d/1PKMXa4TfeuASjEx3D_sbEWYfzm09_5ih/view?usp=sharing)
+  - [Resolução sqrt(João)](https://drive.google.com/file/d/1gMjDzv6hoHCmP1I0vf_VQy4A_3WJ8xnW/view?usp=sharing)
