@@ -18,7 +18,11 @@ A utilização do comando size permite determinar o espaço ocupado pelo program
 
 A gestão de memória na execução de um programa deve ser feita de forma eficiente.
 • **Alocação Estática**: A reserva de espaço de memória por definição da dimensão das variáveis durante a fase de programação designa-se por alocação estática uma vez que não é alterada durante a fase de execução.
+<<<<<<< HEAD
 • **Alocação Dinâmica:** A reserva de espaço de memória durante a execução do programa em função da execução designa-se por alocação dinâmica e requer a utilização de apontadores para a zona de memória alocada.  
+=======
+• **Alocação Dinâmica:** A reserva de espaço de memória durante a execução do programa em função da execução designa-se por alocação dinâmica e requer a utilização de apontadores para a zona de memória alocada. 
+>>>>>>> fa821fc869bfc9074337d43bf07261a554a9629c
 
 A **alocação dinâmica** permite uma gestão mais eficiente da memória uma vez que  apenas se precisa de manter alocada a memória estritamente necessária e toda a  restante pode ser libertada.
 
@@ -26,6 +30,7 @@ A **alocação dinâmica** permite uma gestão mais eficiente da memória uma ve
 
 ## void *calloc(int num, int size);
 
+<<<<<<< HEAD
 A função `calloc()` permite alocar dinamicamente um bloco de memória de n bytes, tal como o `malloc()` e retorna um apontador para esse bloco. Neste caso, `calloc()`, a memória é inicializada a zero.
 
 •O argumento sizecorresponde à dimensão em bytes de cada elemento a alocar.•O argumentonitemscorresponde ao número de elementos a alocar.•A função retorna um apontador para o bloco de memóriaou NULL, caso não consiga alocar a memória.
@@ -93,3 +98,12 @@ A verificação da correcta utilização da alocação dinâmica pode ser feita 
 A documentação pode ser consultada em: http://valgrind.org/docs/manual/index.html .
 
 ![./img/img64.png](./img/img64.png)
+=======
+## void free(void *address);
+
+## void *malloc(int num);
+
+A função `malloc()`
+
+## void *realloc(void *address, int newsize);
+>>>>>>> fa821fc869bfc9074337d43bf07261a554a9629c

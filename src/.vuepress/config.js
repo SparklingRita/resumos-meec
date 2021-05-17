@@ -110,7 +110,8 @@ module.exports = {
             '0004-campo-gravitico',
             '0005-momento-linear',
             '0006-mov-sistemas-particulas',
-            '0007-momento-angular'
+            '0007-momento-angular',
+            '0009-Ondas'
           ],
         },
         {
