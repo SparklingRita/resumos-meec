@@ -41,4 +41,4 @@ $$v = \lambda f$$
 $$ \frac{\partial^2y}{\partial^2x^2} - \frac{1}{v^2}\frac{\partial^2y}{\partial t^2} = 0$$
 onde
 $v = \sqrt{ \frac{T}{\mu}}$
-onde T é a tensão e $\mu$ é a massa por unidade de tempo
+onde T é a tensão e $\mu$ é a massa por unidade de tempo.
