@@ -19,9 +19,13 @@ A **eficiência da execução** tende a aumentar em linguagens de mais baixo ní
 ### Linguagem C
 
 O ciclo de desenvolvimento de um programa em C organiza-se em 4 fases:
+
 • **Escrita do Código**: Nesta fase, o código é escrito em ficheiros com extensão .c
+
 • **Compilação do Programa**: Nesta fase, o código é verificado pelo compilador e é gerado um ficheiro objecto com o nome do programa e extensão .o
+
 • **Linkagem**: Nesta fase, é gerada um ficheiro executável, criado com base no ficheiro objecto anteriormente obtido e nas bibliotecas de funções do próprio C.
+
 • **Execução do Programa**: Nesta fase, o programa é executado e testado do ponto de vista funcional.
 
 ![./img/img2.png](./img/img2.png)
