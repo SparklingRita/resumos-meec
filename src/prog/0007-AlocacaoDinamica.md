@@ -1,4 +1,4 @@
-# 7- Alocação Dinâmica de Memória
+# Alocação Dinâmica de Memória
 
 ## Estrutura de Memória de um Programa em C:
 

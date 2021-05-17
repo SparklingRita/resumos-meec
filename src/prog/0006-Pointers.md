@@ -1,4 +1,4 @@
-# 6- Pointers (Apontadores):
+# Pointers (Apontadores):
 
 ### Declaração:
 

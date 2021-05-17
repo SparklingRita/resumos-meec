@@ -135,7 +135,7 @@ module.exports = {
           title: '📝 Conteúdo',
           collapsable: false,
           children: [
-            '0001-Introdução','0002-structureC', 
+            '0001-Introdução','0002-structureC', '0003-ControloFluxo', '0004-Funcoes', '0005-Arrays', '0006-Pointers', '0007-AlocacaoDinamica'
           ],
         },
         {

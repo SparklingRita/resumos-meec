@@ -1,4 +1,4 @@
-# 1. Introdução
+# Introdução
 
 A **programação** consiste no desenvolvimento de programas (conjuntos de instruções que implementam algoritmos) escritos numa linguagem de programação específica.
 
