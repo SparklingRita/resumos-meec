@@ -1,4 +1,4 @@
-# 5- Arrays (Vectores):
+# Arrays (Vectores):
 
 ## Declaração
 
