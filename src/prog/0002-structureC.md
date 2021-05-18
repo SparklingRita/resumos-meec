@@ -1,4 +1,4 @@
-# 2. Estrutura de um Programa em C
+# Estrutura de um Programa em C
 ![./img/img4.png](./img/img4.png)
 ![./img/img5.png](./img/img5.png)
 

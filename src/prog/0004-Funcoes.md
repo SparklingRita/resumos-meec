@@ -1,4 +1,4 @@
-# 4- Funções
+# Funções
 
 ## Definição Geral
 
