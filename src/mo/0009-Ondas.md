@@ -8,11 +8,11 @@ Existem vários tipos de ondas:
 
 - **Ondas sísmicas**: Propagação de vibrações das camadas da Terra.
 
--**Fenómeno ondulatório**: Propagação de energia através de um meio sem que haja transporte de massa.
+- **Fenómeno ondulatório**: Propagação de energia através de um meio sem que haja transporte de massa.
 
 ## Onda Periódica
 
-1. A pertubação corresponde ao fenómeno ondulatórioque se repete periodicamente no espaço e no tempo.
+1. A perturbação corresponde ao fenómeno ondulatório que se repete periodicamente no espaço e no tempo.
 
 2. A frequência é caracteristica do emissor (não varia com o tempo), e é inversa do período.
 
@@ -32,9 +32,9 @@ $$v = \lambda f$$
 
 ## Propriedades das ondas
 
-- **Onda longitudinal**: A grandeza física associada à onda varia no espaço segundo a direção de propagação. (exemplo: som)
+- **Onda longitudinal**: A grandeza física associada à onda varia no espaço segundo a direção de propagação. (Exemplo: som)
 
-- **Onda transversal**: Grandeza fisica associada à onda varia no espaço segundo uma direção perpedendicular à direção de propagação. (exemplo: onda eletromagnética) Estas ondas podem ser polarizadas segundo diferentes direções (no plano perpendicular à direção de propagação).
+- **Onda transversal**: Grandeza fisica associada à onda varia no espaço segundo uma direção perpendicular à direção de propagação. (exemplo: onda eletromagnética) Estas ondas podem ser polarizadas segundo diferentes direções (no plano perpendicular à direção de propagação).
 
 ## Equação de uma onda (de uma corda vibrante)
 
