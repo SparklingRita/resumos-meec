@@ -23,3 +23,6 @@
 
 - [Ficha 11](https://drive.google.com/file/d/1PKMXa4TfeuASjEx3D_sbEWYfzm09_5ih/view?usp=sharing)
   - [Resolução sqrt(João)](https://drive.google.com/file/d/1gMjDzv6hoHCmP1I0vf_VQy4A_3WJ8xnW/view?usp=sharing)
+
+- [Ficha 12](https://drive.google.com/file/d/1X5UQW1JPYLOtgKAkygyzETMpEXKBc0Rd/view?usp=sharing)
+  - [Resolução sqrt(João)](https://drive.google.com/file/d/1iEBaf6dAXAvShrVpzMjcxYGVK4qvD1SF/view?usp=sharing)
