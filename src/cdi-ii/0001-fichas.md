@@ -26,3 +26,6 @@
 
 - [Ficha 12](https://drive.google.com/file/d/1X5UQW1JPYLOtgKAkygyzETMpEXKBc0Rd/view?usp=sharing)
   - [Resolução sqrt(João)](https://drive.google.com/file/d/1iEBaf6dAXAvShrVpzMjcxYGVK4qvD1SF/view?usp=sharing)
+
+- [Ficha 13](https://drive.google.com/file/d/13ByZVCvF9-6AAn2eyq2PciZRt0am-B6d/view?usp=sharing)
+  - [Resolução sqrt(João)](https://drive.google.com/file/d/1BZe3YA2nEMu46foPcJWVrY_vTg2_BYfp/view?usp=sharing)
