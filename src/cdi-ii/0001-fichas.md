@@ -22,9 +22,6 @@
 	- [Resolução sqrt(João)](https://drive.google.com/file/d/1eKNifVN_iWkey0-UaCdC4OstaFfJuVy3/view?usp=sharing)
 
 - [Ficha 11](https://drive.google.com/file/d/1PKMXa4TfeuASjEx3D_sbEWYfzm09_5ih/view?usp=sharing)
-<<<<<<< HEAD
-  - [Resolução sqrt(João)](https://drive.google.com/file/d/1gMjDzv6hoHCmP1I0vf_VQy4A_3WJ8xnW/view?usp=sharing)
-=======
   - [Resolução sqrt(João)](https://drive.google.com/file/d/1gMjDzv6hoHCmP1I0vf_VQy4A_3WJ8xnW/view?usp=sharing)
 
 - [Ficha 12](https://drive.google.com/file/d/1X5UQW1JPYLOtgKAkygyzETMpEXKBc0Rd/view?usp=sharing)
@@ -32,4 +29,3 @@
 
 - [Ficha 13](https://drive.google.com/file/d/13ByZVCvF9-6AAn2eyq2PciZRt0am-B6d/view?usp=sharing)
   - [Resolução sqrt(João)](https://drive.google.com/file/d/1BZe3YA2nEMu46foPcJWVrY_vTg2_BYfp/view?usp=sharing)
->>>>>>> 61516a9a46b787884b9edbe2f775a651d7ad9a26
