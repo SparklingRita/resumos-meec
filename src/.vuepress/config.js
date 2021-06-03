@@ -67,12 +67,12 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['0002-DerivadasOrdemSuperior','0003-FuncaoInversa&Implicita'],
+          children: ['0002-DerivadasOrdemSuperior','0003-FuncaoInversa&Implicita',],
         },
         {
           title: '✏️ Exercícios',
           collapsable: false,
-          children: ['0001-fichas'],
+          children: ['0001-fichas', '0004-Exams'],
         },
         {
           title: '📒 Cheat Sheets',
@@ -85,7 +85,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['0001-intro', '0002-OeRH', '0003-microeconomia', '0004-IF', '0009-Cap5'],
+          children: ['0001-intro', '0002-OeRH', '0003-microeconomia', '0004-IF', '0009-Cap5', '0010-Cap6', '0011-Cap7'],
         },
         {
           title: '✏️ Exercícios',
@@ -136,7 +136,7 @@ module.exports = {
           title: '📝 Conteúdo',
           collapsable: false,
           children: [
-            '0001-Introdução','0002-structureC', 
+            '0001-Introdução','0002-structureC', '0003-ControloFluxo', '0004-Funcoes', '0005-Arrays', '0006-Pointers', '0007-AlocacaoDinamica', '0008-FilesIO', '0009-makefiles', '0010-StructureUnionsEnumeratedTypedef', '0011-ListasStacksFilas'
           ],
         },
         {

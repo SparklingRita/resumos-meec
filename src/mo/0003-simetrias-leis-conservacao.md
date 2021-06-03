@@ -40,15 +40,15 @@ $W_{AB}=\Delta E_c$
 
 ## Graus de liberdade e Coordenadas Generalizadas
 
-Graus de Liberdade de um sistema correponde ao número mínimo de variáveis independentes necessárias para a descrição do sistema.d
+Graus de Liberdade de um sistema correponde ao número mínimo de variáveis independentes necessárias para a descrição do sistema.
 
-A equações de Euler-Lagrange podem ser escritas em função das variáveis generalizadas, **q_i**, correspondentes aos graus de liberdade do sistema.
+As equações de Euler-Lagrange podem ser escritas em função das variáveis generalizadas, $q_i$, correspondentes aos graus de liberdade do sistema.
 
 $$
 \frac{\partial L}{\partial q_i} - \frac{d}{dt}(\frac{\partial L}{\partial q_i}) = 0
 $$
 
-Por exemplo, no caso do pêndulo gravítico plano, as variáveis $x$ e $y$ não são independentes uma bez que a trajetória (circular) do pêndulo permite conhecer $x$ para um dado $y$ e vice-versa. Neste caso, utiliza-se apenas uma variável $(\theta)$ que define a posição do pêndulo. Diz-se então que o sistema tem apenas **um** grau de liberdade.
+Por exemplo, no caso do pêndulo gravítico plano, as variáveis $x$ e $y$ não são independentes uma vez que a trajetória (circular) do pêndulo permite conhecer $x$ para um dado $y$ e vice-versa. Neste caso, utiliza-se apenas uma variável $(\theta)$ que define a posição do pêndulo. Diz-se então que o sistema tem apenas **um** grau de liberdade.
 
 ![Pendulo Gravitico](./img/pendulo-gravitico.jpg)
 
