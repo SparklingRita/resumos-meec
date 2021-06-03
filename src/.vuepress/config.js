@@ -67,7 +67,7 @@ module.exports = {
         {
           title: '📝 Conteúdo',
           collapsable: false,
-          children: ['0002-DerivadasOrdemSuperior','0003-FuncaoInversa&Implicita','0005-Diferenciabilidade',],
+          children: ['0002-Diferenciabilidade','0003-DerivadasOrdemSuperior','0005-FuncaoInversa&Implicita',],
         },
         {
           title: '✏️ Exercícios',
