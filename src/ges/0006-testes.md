@@ -32,8 +32,7 @@
 
 - [29/01/2016](https://drive.google.com/file/d/0BzjmZngzVbJFaUNPNUVxRmw1aVk/view?usp=sharing)
 
-  - [Respostas oficiais](https://drive.google.com/file/d/0BzjmZngzVbJFSmRtc0JndG81UWs/view?usp=sharing)
-  - {blue}(**Atenção!**) Apesar de serem as respostas oficiais, algumas respostas do teste de 2016 estão incorretas.
+  - [Respostas oficiais](https://drive.google.com/file/d/1EXf9xjepsRgfJGORBKFIaJTtyUz24URF/view?usp=sharing)
 
 - [21/06/2018-8:00h](https://drive.google.com/file/d/1NHSTtZQF0W_XbMArI927wYCrMVY3cOA_/view?usp=sharing)
 
@@ -54,3 +53,11 @@
 - [02/02/2018](https://drive.google.com/file/d/14FyOtubeXTT0ByxdSACwgDD-P6UA9bmY/view?usp=sharing)
 
   - [Respostas oficiais](https://drive.google.com/file/d/1YqsxVzWZoiM5W6VWN9VY81o4m0XaeHXh/view?usp=sharing)
+
+- [03/02/2017](https://drive.google.com/file/d/1Ep6tUuQ6ZA2xDF2Dev3Khpm1S-ifZ_p4/view?usp=sharing)
+
+  - [Respostas oficiais](https://drive.google.com/file/d/1un_bXKSIJ_erNdtbNpzuwqImWBVdHOVH/view?usp=sharing)
+
+- [13/01/2018](https://drive.google.com/file/d/1TwL8jxGMdHQe2NGiQJLPufUH3Vu10UHV/view?usp=sharing)
+
+  - [Respostas oficiais](https://drive.google.com/file/d/1sAMC4qWS_ef4s-SmQS_mO4S95Fh-lNy9/view?usp=sharing)
