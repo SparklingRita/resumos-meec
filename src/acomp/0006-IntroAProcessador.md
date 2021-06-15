@@ -5,7 +5,10 @@
 ![single precision](<./img/ACOMP_IntroducaoArquiteturaProcessador(9).jpg>)
 ![single precision](<./img/ACOMP_IntroducaoArquiteturaProcessador(10).jpg>)
 
+
+
 ::: Tip Saber para o teste
+
 
 - {blue}(**Instruction Fetch**): Contêm o PC e o banco de memória de instruções.
                          Lê a instrução programada.
@@ -20,5 +23,6 @@
 - {blue}(**Memory Access(MEM)**): Coloca os valores na memória.
 
 - {blue}(**Write back**): Contem os MULS, estes selecionam o valor a escrever no REG. Dão suporte às instruções JAL/JALR porque são eles que decidem o próximo passo do processador, desta forma são tambem eles que escrevem de volta nos registos utilizados.
+
 
 :::
