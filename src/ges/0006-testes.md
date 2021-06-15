@@ -33,6 +33,7 @@
 - [29/01/2016](https://drive.google.com/file/d/0BzjmZngzVbJFaUNPNUVxRmw1aVk/view?usp=sharing)
 
   - [Respostas oficiais](https://drive.google.com/file/d/0BzjmZngzVbJFSmRtc0JndG81UWs/view?usp=sharing)
+  - {blue}(**Atenção!**) Apesar de serem as respostas oficiais, algumas respostas do teste de 2016 estão incorretas.
 
 - [21/06/2018-8:00h](https://drive.google.com/file/d/1NHSTtZQF0W_XbMArI927wYCrMVY3cOA_/view?usp=sharing)
 
