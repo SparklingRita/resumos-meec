@@ -89,7 +89,7 @@ $$
 A energia mecânica é dada pela soma da energia potencial com a energia cinética:
 $E = T + U$
 
-Na presença de forças exteriores $\frac {d}{dt} (T + U) = \frac {dE}{dt} = 0$ $\implies$ Lei da conservação da energia mecânica.
+Na ausência de forças exteriores $\frac {d}{dt} (T + U) = \frac {dE}{dt} = 0$ $\implies$ Lei da conservação da energia mecânica.
 
 Assim, na presença de forças exteriores, a energia mecânica do sistema não se conserva:
 
