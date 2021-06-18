@@ -231,3 +231,5 @@ $$
 Campos de forças central $\implies$ Conservação do momento linear, o que implica que $\overrightarrow{L} = Constante$ como $\overrightarrow{L} = \overrightarrow{r} \times m \overrightarrow{v}$ $\implies$ que as órbitas são planas, $\overrightarrow{L}$ é perpendicular ao plano de órbita.
 
 Assim, está explicada parte de 1º Lei de Kepler que nos diz que os planetas orbitam em órbitas elipticas em que o sol ocupa um dos focos.
+
+**Nota:** Pela 3ª Lei de Kepler, os cubos dos raios (médios) das órbitas são proporcionais aos quadrados dos períodos orbitais.

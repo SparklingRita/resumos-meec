@@ -111,7 +111,9 @@ module.exports = {
             '0005-momento-linear',
             '0006-mov-sistemas-particulas',
             '0007-momento-angular',
-            '0009-Ondas'
+            '0009-planoInclinado',
+            '0010-estabilidade-mov-oscilatorios',
+            '0011-Ondas'
           ],
         },
         {
