@@ -17,6 +17,7 @@ no site de LEIC-A.
 - [João Rodrigues](https://github.com/SparklingRita/resumos-meec/commits?author=Joao-Ex-Machina)
 - [Madalena Barros](https://github.com/SparklingRita/resumos-meec/commits?author=madalenarb)
 - [Martim Bento](https://github.com/SparklingRita/resumos-meec/commits?author=G05B3)
+- [Pedro Pinheiro](https://github.com/SparklingRita/resumos-meec/commits?author=P1NH31R0)
 - [Rafaela Oliveira](https://github.com/SparklingRita/resumos-meec/commits?author=rafaelacorreiaoliveira)
 - [Rita Mendes](https://github.com/SparklingRita/resumos-meec/commits?author=SparklingRita)
 - [Rodrigo Coimbra](https://github.com/SparklingRita/resumos-meec/commits?author=RodsCoimbra)
