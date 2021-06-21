@@ -7,7 +7,7 @@ A estrutura de memória de um programa em C encontra-se organizada em vários se
 - **Text/Code Segment**: Neste segmento encontra-se o código máquina do programa compilado. Este segmento deve ter acesso tipicamente só de leitura para evitar que o programa seja destruído ou acidentalmente modificado.
 - **Intialized Data Segment (Data Segment)**: Neste segmento, são guardadas todas as variáveis globais, estáticas (static), constantes, (constant) e variáveis externas(extern) inicializadas. Este segmento tem secções de acesso para escrita e leitura, e de acesso só para leitura (caso das variáveis declaradas como const).
 - **Uninitialized Data Segment (bss - “block started by symbol” ):** Neste segmento, armazenam-se todas as variáveis globais e estáticas inicializadas a 0 ou não inicializadas.
-  Stack Segment: Este segmento é utilizado para guardar todas as variáveis locais, para passar os argumentos para funções e para guardar o endereço de retorno. O Stack tem um acesso do tipo LIFO, i.e., Last In First Out.
+- **Stack Segment**: Este segmento é utilizado para guardar todas as variáveis locais, para passar os argumentos para funções e para guardar o endereço de retorno. O Stack tem um acesso do tipo LIFO, i.e., Last In First Out.
 - **Heap Segment**: Neste segmento, é onde se realiza a alocação dinâmica de memória.
 
 ![./img/img58.png](./img/img58.png)
