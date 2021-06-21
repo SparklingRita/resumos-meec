@@ -96,7 +96,7 @@ argumento é copiado para um parâmetro da função, alterações ao valor dentr
 
 ### Passagem de Par. por Valor
 
-This method copies the actual value of an argument into the formal parameter of the function. In this case, changes made to the parameter inside the function have no effect on the argument.
+Este método copia o valor atual de um argumento para a respetiva variável da função. Neste caso, mudanças feitas à variável dentro da função em questão não irão ter qualquer efeito fora desta.
 
 ```c
 #include <stdio.h>
@@ -140,7 +140,7 @@ void swap(int x, int y){
 
 ### Passagem de Par. por Referência
 
-This method copies the address of an argument into the formal parameter. Inside the function, the address is used to access is used to access the actual argument used in the call. This means that changes made to the parameter changes the argument.
+Este método copia o endereço de um argumento para a variável da função. Dentro desta, o endereço será utilizado para aceder ao valor guardado no endereço em questão e, portanto, mudanças neste irão provocar a alteração do valor para todo o programa e não só dentro esta função.
 
 ```c
 #include <stdio.h>
