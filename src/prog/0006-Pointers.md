@@ -152,7 +152,7 @@ int main () {
 
 	int i = 0;
 
-	for ( i = 0M i < MAX; i++ ) {
+	for ( i = 0; i < MAX; i++ ) {
 		printf("Value of names[%d] = %s\n", i, names[i] );
 	}
 
