@@ -28,7 +28,9 @@ A **alocação dinâmica** permite uma gestão mais eficiente da memória uma ve
 
 A função `calloc()` permite alocar dinamicamente um bloco de memória de n bytes, tal como o `malloc()` e retorna um apontador para esse bloco. Neste caso, `calloc()`, a memória é inicializada a zero.
 
-•O argumento sizecorresponde à dimensão em bytes de cada elemento a alocar.•O argumentonitemscorresponde ao número de elementos a alocar.•A função retorna um apontador para o bloco de memóriaou NULL, caso não consiga alocar a memória.
+•O argumento size corresponde à dimensão em bytes de cada elemento a alocar.
+•O argumenton items corresponde ao número de elementos a alocar.
+•A função retorna um apontador para o bloco de memória ou NULL, caso não consiga alocar a memória.
 
 ![./img/img63.png](./img/img63.png)
 
