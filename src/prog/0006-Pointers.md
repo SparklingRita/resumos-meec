@@ -225,7 +225,7 @@ int main() {
 
 ## Passagem de Pointers para Função
 
-Passing an argument by reference or by address enable the passed argument to be changed in the calling function by the called function.
+A passagem de um argumento por referência (ou através do seu endereço) permite que a sua alteração na função provoque igualmente a mudança na posição de memória e, por isso, obtém-se o valor alterado na função que chama a função responsável pela alteração do seu valor - desde que a passagem de argumento seja feita da forma descrita.
 
 ```c
 #include <stdio.h>
