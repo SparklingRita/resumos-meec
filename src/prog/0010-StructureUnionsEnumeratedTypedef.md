@@ -91,6 +91,7 @@ int main() {
 `    A memória reservada corresponde à dimensão do maior membro:`
 ```
 Memory size occupied by data: 20
+Nota: em caso de alinhamento de memória devemos comparar as variáveis presentes na union(int,float,char) sendo que o maior número de bytes "individual" é 4. Assim, em caso de alinhamento, devemos alinhar a 4 bytes e, portanto, a memória do maior membro(20 bytes para o char) já está devidamente alinhada.
 ```
 
 ### Acesso a Membros
