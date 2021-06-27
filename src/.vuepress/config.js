@@ -61,6 +61,11 @@ module.exports = {
           collapsable: false,
           children: ['0002-PB2','0003-PB3','0007-PB4'],
         },
+        {
+          title: '👨‍💻 Testes e Exames',
+          collapsable: false,
+          children: ['0013-Testes'],
+        },
       ],
       '/cdi-ii/': [
         '',
