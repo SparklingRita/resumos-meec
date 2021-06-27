@@ -24,15 +24,15 @@ Quanto maiores e mais distantes estiverem as caches, maior a latência de acesso
 
 ## Principio da Localidade
 
-1. **Localidade Temporal**: Se acerdemos a um endereço A, é provável que num futuro próximo necessitemos de o aceder novamente. Quando acedemos ao dado/instrução no endereço A, já que temos de pagar o custo de o ir buscar à memória RAM, mas vale armazenálo em memória cache.
+1. **Localidade Temporal**: Se acedermos a um endereço A, é provável que num futuro próximo necessitemos de o aceder novamente. Quando acedemos ao dado/instrução no endereço A, já que temos de pagar o custo de o ir buscar à memória RAM, mas vale armazená-lo em memória cache.
 
-2. **Localidade Espacial**: Se acedermos a um endereço A, é provável que num futuro próximo necessitemos de aceder aos endereços adjacentes a A. Quando acedemos ao dado/instrução no endereço A, já que temos de pagar o custo de o ir buscar à memória RAM, mais vele trazer também alguns dados/instruções contíguas.
+2. **Localidade Espacial**: Se acedermos a um endereço A, é provável que num futuro próximo necessitemos de aceder aos endereços adjacentes a A. Quando acedemos ao dado/instrução no endereço A, já que temos de pagar o custo de o ir buscar à memória RAM, mais vale trazer também alguns dados/instruções contíguas.
 
 3. **Regra 90/10**: Um programa passa 90% do tempo a executar 10% das instruções.
 
 ## Organização das memórias caches
 
-A cache mapeia os endereços da memória RAM num conjunto limitado de entradas. O que faz com que múltiplas entradas da memória RAM correspondem à mesma entrada da cahe. Assim, para conseguirmos guardar na cache os dados precisamos de:
+A cache mapeia os endereços da memória RAM num conjunto limitado de entradas. O que faz com que múltiplas entradas da memória RAM correspondem à mesma entrada da cache. Assim, para conseguirmos guardar na cache os dados precisamos de:
 
 $\to$ **Bloco de dados**: Sequência de palavras de dados, correspondentes a endereços consecutivos em memória.
 
@@ -46,13 +46,13 @@ $\to$ **CTRL**: Sinais de controlo auxiliares.
 
 1. **Caches de mapeamento direto**: Apenas uma via, com múltiplas entradas.
 
-2. **Cache associativa**: N vias, cada uma com múltiplas linhas. A organização de cada uma das N vias é identica.
+2. **Cache associativa**: N vias, cada uma com múltiplas linhas. A organização de cada uma das N vias é idêntica.
 
 3. **Cache completamente associativa**: Multiplas vias, mas cada uma contendo apenas uma linha.
 
 :::
 
-Quando o processador precisa de um dado, faz o pedido à cache L1. De acordo com a cahe L1, esta decompõe a palavra de endereço em:
+Quando o processador precisa de um dado, faz o pedido à cache L1. De acordo com a cache L1, esta decompõe a palavra de endereço em:
 
 ![vertical funcional](./img/img12.png)
 
@@ -66,7 +66,7 @@ $$Index = log_2(Nº de linhas)$$
 
 $$TAG = \text{Address size - offset - Index}$$
 
-4. Se 2 e 3 forem verdadeiros $\to$ {green}(HIT). Ler a palvra pedida a partir da cahe, sendo o primeiro byte associado pelo valor do offset.
+4. Se 2 e 3 forem verdadeiros $\to$ {green}(HIT). Ler a palavra pedida a partir da cache, sendo o primeiro byte associado pelo valor do offset.
 
 $$Offset = log_2(\text{Nº de palavras})$$
 
@@ -127,7 +127,7 @@ Desculpa, ainda não esta aqui nada :)
 
 - Geralmente as caches têm um número de vias limitado
 
-## Polítcas de substituição
+## Políticas de substituição
 
 Em caso de {red}(MISS), qual das vias deve ser escolhida?
 
@@ -144,12 +144,12 @@ Se a linha selecionada estiver livre (V = 0) em pelo menos uma via $\to$ escolhe
 
 - **Write-back**: Escrita é realizada na cache.
 
-Na sequência de um {red}(MISS) na cache, a linha modificada anteriormente é substituida por outra linha. Para garantir a coerência é necessário escrever o valor na memória antes de alterar a linha. Contudo é necessário que o controlador da cahe tenha informação relativamente às linhas modificadas.
+Na sequência de um {red}(MISS) na cache, a linha modificada anteriormente é substituida por outra linha. Para garantir a coerência é necessário escrever o valor na memória antes de alterar a linha. Contudo é necessário que o controlador da cache tenha informação relativamente às linhas modificadas.
 
-**SOLUÇÃO**: Introduzir um bit de controlo adicional, {orange}(Dirty bit (D)), indica quais as linhas modificados.
+**SOLUÇÃO**: Introduzir um bit de controlo adicional, {orange}(Dirty bit (D)), indica quais as linhas modificadas.
 Quando D = 1, indica quais as linhas que devem ser escritas em memória antes de serem substituidas.
 
-- **Write-through**: A escrita não é realizada na cahe. Não necessita do Dirty-bit, visto que aqui a memória já foi atualizada.
+- **Write-through**: A escrita não é realizada na cache. Não necessita do Dirty-bit, visto que aqui a memória já foi atualizada.
 
 Para reduzir a latência das escritas, é habitual o uso de um **write - buffer**:
 
