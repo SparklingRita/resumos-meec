@@ -122,7 +122,7 @@ Desculpa, ainda não esta aqui nada :)
 - Contudo, o aumento do número de vias geralmente leva a:
 
   1. Maior tempo de acesso.
-  2. Mias recursos de hardware.
+  2. Mais recursos de hardware.
   3. Maior área de silicio e maior consumos de potência.
 
 - Geralmente as caches têm um número de vias limitado
