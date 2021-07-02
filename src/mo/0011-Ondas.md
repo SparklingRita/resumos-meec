@@ -42,3 +42,53 @@ $$ \frac{\partial^2y}{\partial^2x^2} - \frac{1}{v^2}\frac{\partial^2y}{\partial 
 onde
 $v = \sqrt{ \frac{T}{\mu}}$
 onde T é a tensão e $\mu$ é a massa por unidade de tempo.
+
+## Interferências
+
+### Interferência construtiva
+
+$$ \phi_1(x,t) = Asin(kx-wt), \phi_2(x,t) = Asin(kx - wt + \alpha)$$
+
+Temos assim:
+
+$$\phi(x,t) = \phi_1(x,t) + \phi_2(x,t) = 2Acos\frac{\alpha}{2}sin(kx - wt + \frac{\alpha}{2})$$
+
+### Interferência Destrutiva
+
+$$ \phi_1(x,t) = Asin(kx - wt), \phi_2(x,t) = Asin(kx - wt + \pi) = - \phi_1(x,t)$$
+
+Logo $\phi(x,t) = \phi_1(x,t) + \phi_2(x,t) = 0$
+
+### Ondas estacionárias
+
+$$ \phi_1(x,t) = Asin(kx-wt), \phi_2(x,t) = Asin(kx + wt)$$
+
+Temos:
+
+$$\phi(x,t) = \phi_1(x,t) + \phi_2(x,t) = 2Asin(kx)cos(wt)$$
+
+![ondas](./img/img1.png)
+
+::: tip Fórmulas
+
+$$\text{Frequência Angular: w} = \frac{2\pi}{T}$$
+
+$$\text{Nº de onda: k} = \frac{2\pi}{\lambda}$$
+
+$$\text{Relação de dispersão: w} = k \times v$$
+
+$$\text{Velocidade de grupo: Vg} = \frac{\partial w}{\partial K}$$
+
+:::
+
+## Efeito Doppler
+
+::: tip Definição
+
+Alteração da frequência percecionada, ou medida, por um recetor devido ao movimento relativo entre esse recetor e uma fonte emissora.
+
+- Afastamento entre fonte e recetor: Diminui a frequência.
+
+- Aproximação entre fonte e recetor: Aumenta a frequência.
+
+:::
