@@ -19,7 +19,7 @@ a "olho" a injetividade de $f$ à volta do ponto considerado.
 
 >Seja $F : \R^n \to \R^m$, com m < n, uma função de classe $C^1$ e $(a,b) \isin \R^n$ tal que $a \isin \R^{n-m}$, $b \isin \R^m$ e 
 
-$$ F(a,b) = 0; \; \vert DF_{y}(a,b) \vert = 0 $$
+$$ F(a,b) = 0; \; \vert DF_{y}(a,b) \vert \neq 0 $$
 
 >Então, existe uma função $f$ de classe $C^1$, tal que, **localmente** em torno de $(a,b)$ se tem 
 
