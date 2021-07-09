@@ -118,7 +118,8 @@ module.exports = {
             '0007-momento-angular',
             '0009-planoInclinado',
             '0010-estabilidade-mov-oscilatorios',
-            '0011-Ondas'
+            '0011-Ondas',
+            '0012-Relat'
           ],
         },
         {
