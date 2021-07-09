@@ -89,6 +89,26 @@ Alteração da frequência percecionada, ou medida, por um recetor devido ao mov
 
 - Afastamento entre fonte e recetor: Diminui a frequência.
 
+$$f' = f\frac{1}{1+{\frac{v_f}{v}}}$$
+
 - Aproximação entre fonte e recetor: Aumenta a frequência.
+
+$$f' = f\frac{1}{1-{\frac{v_f}{v}}}$$
+
+:::
+
+## Reflexão e Refração
+
+{yellow}(Reflexão:) O ângulo de reflexão é igual ao de incidência.
+
+![ondas](./img/img2.png)
+
+{yellow}(Refração:) Desvio da direção de propagação da onda ao passar de um meio para o outro, em consequência da diferente velocidade de propagação nos dois meios. Quanto maior for essa diferença de velocidades, maior o desvio.
+
+::: tip Fórmulas
+
+$$n_i seni = n_r senr$$
+
+$$n = \frac{c}{v}$$
 
 :::
