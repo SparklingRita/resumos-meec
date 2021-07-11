@@ -56,7 +56,7 @@ Substituindo $v_{0x}$ e $v_{0y}$ por $v_0\cos{\theta}$ e $v_0\sin{\theta}$, resp
 
 $\begin{cases}x=x_0+v_{0x}t+\frac{1}{2}a t^2\\ y=y_0+v_{0y}t+\frac{1}{2}a t^2\end{cases} \implies \begin{cases}x=(v_0\cos{\theta})t\\y=(v_0\sin{\theta})t-\frac{1}{2}gt^2 \end{cases}$
 
-Quando $\displaystyle y=0 \implies (v_0\sin\theta)t-\frac{1 2}gt^2=0 \implies t_{voo}=\frac{2v_0\sin\theta}{g}$
+Quando $\displaystyle y=0 \implies (v_0\sin\theta)t-\frac{1} {2}gt^2=0 \implies t_{voo}=\frac{2v_0\sin\theta}{g}$
 
 Substituindo $t$ em $x$:  
 $\displaystyle x_{alcance}=v_0\cos\theta(\frac{2v_0\sin\theta}{g})\implies x_{alcance}=\frac{2v_0^2\sin\theta\cos\theta}{g}$
